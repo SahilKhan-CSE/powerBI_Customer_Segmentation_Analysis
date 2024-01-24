@@ -1,0 +1,289 @@
+age_group,gender,category,payment_method,total_quantity
+18-25,Female,Books,Cash,590
+18-25,Female,Books,"Credit Card",522
+18-25,Female,Books,"Debit Card",257
+18-25,Female,Clothing,Cash,4141
+18-25,Female,Clothing,"Credit Card",3438
+18-25,Female,Clothing,"Debit Card",1992
+18-25,Female,Cosmetics,Cash,1848
+18-25,Female,Cosmetics,"Credit Card",1525
+18-25,Female,Cosmetics,"Debit Card",847
+18-25,Female,"Food & Beverage",Cash,1792
+18-25,Female,"Food & Beverage","Credit Card",1480
+18-25,Female,"Food & Beverage","Debit Card",749
+18-25,Female,Shoes,Cash,1246
+18-25,Female,Shoes,"Credit Card",981
+18-25,Female,Shoes,"Debit Card",534
+18-25,Female,Souvenir,Cash,555
+18-25,Female,Souvenir,"Credit Card",510
+18-25,Female,Souvenir,"Debit Card",316
+18-25,Female,Technology,Cash,646
+18-25,Female,Technology,"Credit Card",486
+18-25,Female,Technology,"Debit Card",243
+18-25,Female,Toys,Cash,1263
+18-25,Female,Toys,"Credit Card",967
+18-25,Female,Toys,"Debit Card",515
+18-25,Male,Books,Cash,470
+18-25,Male,Books,"Credit Card",350
+18-25,Male,Books,"Debit Card",244
+18-25,Male,Clothing,Cash,2826
+18-25,Male,Clothing,"Credit Card",2160
+18-25,Male,Clothing,"Debit Card",1294
+18-25,Male,Cosmetics,Cash,1185
+18-25,Male,Cosmetics,"Credit Card",931
+18-25,Male,Cosmetics,"Debit Card",541
+18-25,Male,"Food & Beverage",Cash,1251
+18-25,Male,"Food & Beverage","Credit Card",1044
+18-25,Male,"Food & Beverage","Debit Card",529
+18-25,Male,Shoes,Cash,863
+18-25,Male,Shoes,"Credit Card",688
+18-25,Male,Shoes,"Debit Card",387
+18-25,Male,Souvenir,Cash,389
+18-25,Male,Souvenir,"Credit Card",305
+18-25,Male,Souvenir,"Debit Card",233
+18-25,Male,Technology,Cash,336
+18-25,Male,Technology,"Credit Card",311
+18-25,Male,Technology,"Debit Card",184
+18-25,Male,Toys,Cash,979
+18-25,Male,Toys,"Credit Card",631
+18-25,Male,Toys,"Debit Card",454
+26-35,Female,Books,Cash,752
+26-35,Female,Books,"Credit Card",604
+26-35,Female,Books,"Debit Card",341
+26-35,Female,Clothing,Cash,5363
+26-35,Female,Clothing,"Credit Card",4088
+26-35,Female,Clothing,"Debit Card",2526
+26-35,Female,Cosmetics,Cash,2112
+26-35,Female,Cosmetics,"Credit Card",1908
+26-35,Female,Cosmetics,"Debit Card",1206
+26-35,Female,"Food & Beverage",Cash,2168
+26-35,Female,"Food & Beverage","Credit Card",1771
+26-35,Female,"Food & Beverage","Debit Card",1061
+26-35,Female,Shoes,Cash,1530
+26-35,Female,Shoes,"Credit Card",1155
+26-35,Female,Shoes,"Debit Card",608
+26-35,Female,Souvenir,Cash,767
+26-35,Female,Souvenir,"Credit Card",677
+26-35,Female,Souvenir,"Debit Card",345
+26-35,Female,Technology,Cash,765
+26-35,Female,Technology,"Credit Card",618
+26-35,Female,Technology,"Debit Card",317
+26-35,Female,Toys,Cash,1606
+26-35,Female,Toys,"Credit Card",1246
+26-35,Female,Toys,"Debit Card",735
+26-35,Male,Books,Cash,524
+26-35,Male,Books,"Credit Card",347
+26-35,Male,Books,"Debit Card",205
+26-35,Male,Clothing,Cash,3691
+26-35,Male,Clothing,"Credit Card",2629
+26-35,Male,Clothing,"Debit Card",1523
+26-35,Male,Cosmetics,Cash,1614
+26-35,Male,Cosmetics,"Credit Card",1197
+26-35,Male,Cosmetics,"Debit Card",687
+26-35,Male,"Food & Beverage",Cash,1578
+26-35,Male,"Food & Beverage","Credit Card",1229
+26-35,Male,"Food & Beverage","Debit Card",726
+26-35,Male,Shoes,Cash,1149
+26-35,Male,Shoes,"Credit Card",846
+26-35,Male,Shoes,"Debit Card",525
+26-35,Male,Souvenir,Cash,534
+26-35,Male,Souvenir,"Credit Card",403
+26-35,Male,Souvenir,"Debit Card",235
+26-35,Male,Technology,Cash,517
+26-35,Male,Technology,"Credit Card",403
+26-35,Male,Technology,"Debit Card",219
+26-35,Male,Toys,Cash,1037
+26-35,Male,Toys,"Credit Card",808
+26-35,Male,Toys,"Debit Card",370
+36-45,Female,Books,Cash,826
+36-45,Female,Books,"Credit Card",584
+36-45,Female,Books,"Debit Card",332
+36-45,Female,Clothing,Cash,5582
+36-45,Female,Clothing,"Credit Card",4077
+36-45,Female,Clothing,"Debit Card",2344
+36-45,Female,Cosmetics,Cash,2382
+36-45,Female,Cosmetics,"Credit Card",1816
+36-45,Female,Cosmetics,"Debit Card",1121
+36-45,Female,"Food & Beverage",Cash,2341
+36-45,Female,"Food & Beverage","Credit Card",1892
+36-45,Female,"Food & Beverage","Debit Card",1177
+36-45,Female,Shoes,Cash,1594
+36-45,Female,Shoes,"Credit Card",1353
+36-45,Female,Shoes,"Debit Card",678
+36-45,Female,Souvenir,Cash,735
+36-45,Female,Souvenir,"Credit Card",664
+36-45,Female,Souvenir,"Debit Card",336
+36-45,Female,Technology,Cash,911
+36-45,Female,Technology,"Credit Card",602
+36-45,Female,Technology,"Debit Card",347
+36-45,Female,Toys,Cash,1590
+36-45,Female,Toys,"Credit Card",1351
+36-45,Female,Toys,"Debit Card",710
+36-45,Male,Books,Cash,553
+36-45,Male,Books,"Credit Card",335
+36-45,Male,Books,"Debit Card",225
+36-45,Male,Clothing,Cash,3420
+36-45,Male,Clothing,"Credit Card",2908
+36-45,Male,Clothing,"Debit Card",1723
+36-45,Male,Cosmetics,Cash,1587
+36-45,Male,Cosmetics,"Credit Card",1235
+36-45,Male,Cosmetics,"Debit Card",689
+36-45,Male,"Food & Beverage",Cash,1479
+36-45,Male,"Food & Beverage","Credit Card",1333
+36-45,Male,"Food & Beverage","Debit Card",622
+36-45,Male,Shoes,Cash,1077
+36-45,Male,Shoes,"Credit Card",727
+36-45,Male,Shoes,"Debit Card",512
+36-45,Male,Souvenir,Cash,493
+36-45,Male,Souvenir,"Credit Card",434
+36-45,Male,Souvenir,"Debit Card",229
+36-45,Male,Technology,Cash,562
+36-45,Male,Technology,"Credit Card",504
+36-45,Male,Technology,"Debit Card",242
+36-45,Male,Toys,Cash,950
+36-45,Male,Toys,"Credit Card",765
+36-45,Male,Toys,"Debit Card",534
+46-55,Female,Books,Cash,715
+46-55,Female,Books,"Credit Card",597
+46-55,Female,Books,"Debit Card",349
+46-55,Female,Clothing,Cash,5105
+46-55,Female,Clothing,"Credit Card",4356
+46-55,Female,Clothing,"Debit Card",2437
+46-55,Female,Cosmetics,Cash,2316
+46-55,Female,Cosmetics,"Credit Card",1929
+46-55,Female,Cosmetics,"Debit Card",993
+46-55,Female,"Food & Beverage",Cash,2161
+46-55,Female,"Food & Beverage","Credit Card",1772
+46-55,Female,"Food & Beverage","Debit Card",986
+46-55,Female,Shoes,Cash,1473
+46-55,Female,Shoes,"Credit Card",1316
+46-55,Female,Shoes,"Debit Card",657
+46-55,Female,Souvenir,Cash,792
+46-55,Female,Souvenir,"Credit Card",544
+46-55,Female,Souvenir,"Debit Card",338
+46-55,Female,Technology,Cash,715
+46-55,Female,Technology,"Credit Card",604
+46-55,Female,Technology,"Debit Card",357
+46-55,Female,Toys,Cash,1594
+46-55,Female,Toys,"Credit Card",1223
+46-55,Female,Toys,"Debit Card",593
+46-55,Male,Books,Cash,522
+46-55,Male,Books,"Credit Card",405
+46-55,Male,Books,"Debit Card",286
+46-55,Male,Clothing,Cash,3801
+46-55,Male,Clothing,"Credit Card",2758
+46-55,Male,Clothing,"Debit Card",1665
+46-55,Male,Cosmetics,Cash,1665
+46-55,Male,Cosmetics,"Credit Card",1170
+46-55,Male,Cosmetics,"Debit Card",777
+46-55,Male,"Food & Beverage",Cash,1568
+46-55,Male,"Food & Beverage","Credit Card",1124
+46-55,Male,"Food & Beverage","Debit Card",699
+46-55,Male,Shoes,Cash,1002
+46-55,Male,Shoes,"Credit Card",825
+46-55,Male,Shoes,"Debit Card",509
+46-55,Male,Souvenir,Cash,410
+46-55,Male,Souvenir,"Credit Card",310
+46-55,Male,Souvenir,"Debit Card",248
+46-55,Male,Technology,Cash,477
+46-55,Male,Technology,"Credit Card",399
+46-55,Male,Technology,"Debit Card",274
+46-55,Male,Toys,Cash,1048
+46-55,Male,Toys,"Credit Card",806
+46-55,Male,Toys,"Debit Card",416
+56-65,Female,Books,Cash,739
+56-65,Female,Books,"Credit Card",507
+56-65,Female,Books,"Debit Card",334
+56-65,Female,Clothing,Cash,5483
+56-65,Female,Clothing,"Credit Card",3915
+56-65,Female,Clothing,"Debit Card",2526
+56-65,Female,Cosmetics,Cash,2114
+56-65,Female,Cosmetics,"Credit Card",1969
+56-65,Female,Cosmetics,"Debit Card",1066
+56-65,Female,"Food & Beverage",Cash,2298
+56-65,Female,"Food & Beverage","Credit Card",1790
+56-65,Female,"Food & Beverage","Debit Card",893
+56-65,Female,Shoes,Cash,1562
+56-65,Female,Shoes,"Credit Card",1182
+56-65,Female,Shoes,"Debit Card",702
+56-65,Female,Souvenir,Cash,853
+56-65,Female,Souvenir,"Credit Card",602
+56-65,Female,Souvenir,"Debit Card",331
+56-65,Female,Technology,Cash,768
+56-65,Female,Technology,"Credit Card",632
+56-65,Female,Technology,"Debit Card",362
+56-65,Female,Toys,Cash,1628
+56-65,Female,Toys,"Credit Card",1189
+56-65,Female,Toys,"Debit Card",661
+56-65,Male,Books,Cash,574
+56-65,Male,Books,"Credit Card",449
+56-65,Male,Books,"Debit Card",269
+56-65,Male,Clothing,Cash,3560
+56-65,Male,Clothing,"Credit Card",2728
+56-65,Male,Clothing,"Debit Card",1564
+56-65,Male,Cosmetics,Cash,1662
+56-65,Male,Cosmetics,"Credit Card",1249
+56-65,Male,Cosmetics,"Debit Card",646
+56-65,Male,"Food & Beverage",Cash,1497
+56-65,Male,"Food & Beverage","Credit Card",1192
+56-65,Male,"Food & Beverage","Debit Card",744
+56-65,Male,Shoes,Cash,997
+56-65,Male,Shoes,"Credit Card",830
+56-65,Male,Shoes,"Debit Card",449
+56-65,Male,Souvenir,Cash,551
+56-65,Male,Souvenir,"Credit Card",417
+56-65,Male,Souvenir,"Debit Card",245
+56-65,Male,Technology,Cash,488
+56-65,Male,Technology,"Credit Card",357
+56-65,Male,Technology,"Debit Card",239
+56-65,Male,Toys,Cash,953
+56-65,Male,Toys,"Credit Card",837
+56-65,Male,Toys,"Debit Card",462
+65+,Female,Books,Cash,347
+65+,Female,Books,"Credit Card",232
+65+,Female,Books,"Debit Card",148
+65+,Female,Clothing,Cash,2138
+65+,Female,Clothing,"Credit Card",1626
+65+,Female,Clothing,"Debit Card",902
+65+,Female,Cosmetics,Cash,866
+65+,Female,Cosmetics,"Credit Card",825
+65+,Female,Cosmetics,"Debit Card",418
+65+,Female,"Food & Beverage",Cash,885
+65+,Female,"Food & Beverage","Credit Card",720
+65+,Female,"Food & Beverage","Debit Card",426
+65+,Female,Shoes,Cash,606
+65+,Female,Shoes,"Credit Card",451
+65+,Female,Shoes,"Debit Card",278
+65+,Female,Souvenir,Cash,234
+65+,Female,Souvenir,"Credit Card",278
+65+,Female,Souvenir,"Debit Card",99
+65+,Female,Technology,Cash,300
+65+,Female,Technology,"Credit Card",212
+65+,Female,Technology,"Debit Card",92
+65+,Female,Toys,Cash,701
+65+,Female,Toys,"Credit Card",505
+65+,Female,Toys,"Debit Card",285
+65+,Male,Books,Cash,219
+65+,Male,Books,"Credit Card",130
+65+,Male,Books,"Debit Card",99
+65+,Male,Clothing,Cash,1432
+65+,Male,Clothing,"Credit Card",1194
+65+,Male,Clothing,"Debit Card",643
+65+,Male,Cosmetics,Cash,580
+65+,Male,Cosmetics,"Credit Card",529
+65+,Male,Cosmetics,"Debit Card",260
+65+,Male,"Food & Beverage",Cash,605
+65+,Male,"Food & Beverage","Credit Card",445
+65+,Male,"Food & Beverage","Debit Card",250
+65+,Male,Shoes,Cash,393
+65+,Male,Shoes,"Credit Card",365
+65+,Male,Shoes,"Debit Card",167
+65+,Male,Souvenir,Cash,173
+65+,Male,Souvenir,"Credit Card",174
+65+,Male,Souvenir,"Debit Card",112
+65+,Male,Technology,Cash,235
+65+,Male,Technology,"Credit Card",192
+65+,Male,Technology,"Debit Card",105
+65+,Male,Toys,Cash,396
+65+,Male,Toys,"Credit Card",346
+65+,Male,Toys,"Debit Card",167

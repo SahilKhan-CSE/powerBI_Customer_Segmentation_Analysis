@@ -1,0 +1,1001 @@
+invoice_no,customer_id,gender,age,category,quantity,price,payment_method,invoice_date,shopping_mall
+I100008,C199951,Male,65,Clothing,5,1500.40,Cash,10-07-2022,"Emaar Square Mall"
+I100014,C138893,Male,55,Cosmetics,5,203.30,Cash,18-06-2021,"Viaport Outlet"
+I100015,C132779,Female,35,Clothing,2,600.16,"Debit Card",04-03-2021,"Mall of Istanbul"
+I100024,C244411,Female,67,Books,3,45.45,"Credit Card",05-01-2023,"Emaar Square Mall"
+I100027,C150002,Female,19,Technology,4,4200.00,Cash,18-05-2022,"Mall of Istanbul"
+I100028,C325553,Female,18,Clothing,1,300.08,"Credit Card",19-06-2021,Metrocity
+I100031,C378408,Male,18,"Food & Beverage",3,15.69,"Credit Card",23-06-2022,"Emaar Square Mall"
+I100033,C278721,Male,56,"Food & Beverage",4,20.92,"Credit Card",19-10-2021,"Zorlu Center"
+I100037,C122873,Female,63,Clothing,1,300.08,"Debit Card",06-06-2021,Kanyon
+I100041,C326923,Female,50,Cosmetics,3,121.98,Cash,24-07-2022,"Mall of Istanbul"
+I100049,C297871,Male,39,Shoes,1,600.17,"Debit Card",26-12-2021,"Mall of Istanbul"
+I100053,C217294,Female,21,Cosmetics,3,121.98,"Credit Card",02-01-2023,Metrocity
+I100057,C225062,Female,25,Clothing,2,600.16,"Credit Card",13-10-2021,"Forum Istanbul"
+I100059,C292544,Female,52,Souvenir,3,35.19,"Debit Card",14-06-2021,Metrocity
+I100068,C647308,Female,52,Toys,2,71.68,"Credit Card",13-08-2021,"Metropol AVM"
+I100071,C522050,Female,30,Clothing,3,900.24,Cash,16-10-2021,"Mall of Istanbul"
+I100072,C143773,Male,64,Technology,5,5250.00,"Debit Card",10-08-2021,"Metropol AVM"
+I100077,C356550,Male,46,"Food & Beverage",1,5.23,"Credit Card",03-02-2021,"Emaar Square Mall"
+I100078,C272831,Male,46,Books,5,75.75,"Credit Card",10-07-2021,"Mall of Istanbul"
+I100080,C696236,Male,55,Toys,4,143.36,"Credit Card",26-04-2022,"Metropol AVM"
+I100082,C357288,Female,44,Souvenir,2,23.46,Cash,31-12-2021,"Cevahir AVM"
+I100084,C226369,Female,68,Shoes,2,1200.34,"Credit Card",09-10-2022,Kanyon
+I100089,C123196,Female,63,Clothing,5,1500.40,Cash,27-03-2022,"Emaar Square Mall"
+I100090,C801451,Female,27,Shoes,4,2400.68,"Credit Card",17-04-2021,Metrocity
+I100094,C246470,Female,68,Toys,2,71.68,Cash,18-12-2021,"Metropol AVM"
+I100095,C608046,Male,60,Clothing,2,600.16,Cash,23-11-2021,"Istinye Park"
+I100097,C673123,Female,63,"Food & Beverage",4,20.92,"Credit Card",24-08-2022,"Mall of Istanbul"
+I100098,C228071,Male,49,Clothing,5,1500.40,Cash,16-11-2021,"Cevahir AVM"
+I100105,C246820,Male,39,"Food & Beverage",4,20.92,"Debit Card",15-04-2022,Kanyon
+I100106,C850385,Male,36,"Food & Beverage",2,10.46,"Credit Card",12-09-2021,"Metropol AVM"
+I100108,C331773,Female,45,Books,4,60.60,"Credit Card",06-08-2021,"Cevahir AVM"
+I100111,C314731,Female,46,Clothing,3,900.24,"Debit Card",13-09-2022,Metrocity
+I100113,C136435,Male,48,Clothing,1,300.08,"Credit Card",31-01-2021,"Zorlu Center"
+I100116,C235320,Female,60,Cosmetics,3,121.98,Cash,18-11-2022,"Metropol AVM"
+I100126,C103405,Male,31,Clothing,3,900.24,"Credit Card",26-03-2022,"Emaar Square Mall"
+I100127,C708853,Male,38,Clothing,2,600.16,"Debit Card",16-11-2021,"Cevahir AVM"
+I100128,C168282,Female,23,Clothing,3,900.24,"Credit Card",16-07-2022,"Istinye Park"
+I100137,C233463,Male,35,Shoes,5,3000.85,Cash,16-05-2021,"Mall of Istanbul"
+I100138,C237364,Male,52,Clothing,2,600.16,Cash,19-06-2021,"Mall of Istanbul"
+I100142,C161659,Male,37,Clothing,4,1200.32,"Debit Card",28-08-2021,"Metropol AVM"
+I100145,C153189,Female,20,Clothing,5,1500.40,"Debit Card",10-12-2022,Kanyon
+I100146,C320745,Female,24,Shoes,4,2400.68,"Credit Card",25-04-2022,"Emaar Square Mall"
+I100148,C200488,Male,52,Shoes,4,2400.68,Cash,16-04-2022,"Zorlu Center"
+I100149,C193896,Female,65,"Food & Beverage",5,26.15,Cash,17-11-2021,"Mall of Istanbul"
+I100151,C315218,Male,69,Clothing,2,600.16,Cash,23-07-2021,Kanyon
+I100152,C265676,Female,43,Shoes,5,3000.85,"Credit Card",25-02-2021,"Mall of Istanbul"
+I100155,C312476,Female,30,"Food & Beverage",4,20.92,"Credit Card",29-06-2021,"Metropol AVM"
+I100156,C462935,Female,69,Books,3,45.45,"Credit Card",25-01-2021,"Metropol AVM"
+I100161,C262871,Female,30,Clothing,1,300.08,Cash,11-04-2021,Kanyon
+I100168,C135319,Male,43,Shoes,4,2400.68,Cash,15-11-2021,"Zorlu Center"
+I100173,C190374,Female,69,"Food & Beverage",1,5.23,Cash,18-05-2021,"Metropol AVM"
+I100174,C286570,Female,36,Clothing,1,300.08,Cash,07-12-2021,"Mall of Istanbul"
+I100181,C123341,Female,33,Clothing,5,1500.40,Cash,18-04-2022,Metrocity
+I100184,C131276,Female,32,Cosmetics,2,81.32,Cash,18-09-2022,Kanyon
+I100186,C222236,Male,62,Clothing,1,300.08,"Debit Card",30-01-2023,"Zorlu Center"
+I100187,C178869,Female,41,"Food & Beverage",1,5.23,"Credit Card",28-07-2021,Metrocity
+I100192,C161234,Male,57,Clothing,1,300.08,"Debit Card",17-11-2021,"Mall of Istanbul"
+I100193,C149918,Male,34,Clothing,1,300.08,"Debit Card",26-02-2022,"Istinye Park"
+I100195,C322199,Female,34,"Food & Beverage",5,26.15,"Debit Card",20-12-2022,"Mall of Istanbul"
+I100198,C136883,Female,58,Cosmetics,5,203.30,"Credit Card",18-07-2021,"Cevahir AVM"
+I100199,C275614,Female,31,Books,5,75.75,Cash,25-02-2022,"Istinye Park"
+I100200,C948033,Male,24,Toys,4,143.36,Cash,28-07-2021,Metrocity
+I100201,C982027,Male,57,Souvenir,5,58.65,Cash,20-03-2021,"Istinye Park"
+I100202,C182496,Male,45,"Food & Beverage",4,20.92,"Credit Card",20-11-2022,Kanyon
+I100205,C220151,Male,32,Clothing,5,1500.40,"Credit Card",26-06-2021,"Istinye Park"
+I100207,C452901,Male,22,Clothing,4,1200.32,"Credit Card",19-04-2021,Metrocity
+I100211,C239527,Female,59,Clothing,2,600.16,"Debit Card",10-02-2021,Metrocity
+I100212,C282695,Female,60,Souvenir,3,35.19,"Credit Card",31-08-2021,Kanyon
+I100214,C989972,Female,42,Clothing,3,900.24,Cash,06-03-2022,"Istinye Park"
+I100215,C198589,Male,27,Shoes,3,1800.51,"Debit Card",12-04-2021,"Mall of Istanbul"
+I100216,C145243,Male,27,Cosmetics,1,40.66,Cash,09-03-2022,"Mall of Istanbul"
+I100218,C205490,Male,37,"Food & Beverage",1,5.23,Cash,15-10-2022,Kanyon
+I100220,C122251,Male,25,Clothing,5,1500.40,Cash,26-05-2021,"Mall of Istanbul"
+I100223,C212702,Female,45,Shoes,5,3000.85,"Credit Card",21-11-2022,Metrocity
+I100225,C128382,Male,44,Cosmetics,3,121.98,"Credit Card",12-10-2022,"Istinye Park"
+I100227,C364271,Female,67,Toys,3,107.52,Cash,13-05-2022,Metrocity
+I100228,C248381,Male,42,Clothing,2,600.16,Cash,21-02-2023,"Mall of Istanbul"
+I100229,C397160,Male,27,Cosmetics,4,162.64,"Debit Card",28-02-2023,"Mall of Istanbul"
+I100231,C274640,Female,67,Technology,1,1050.00,"Debit Card",19-07-2021,"Metropol AVM"
+I100240,C240922,Female,22,Cosmetics,3,121.98,"Credit Card",20-10-2022,"Cevahir AVM"
+I100243,C332855,Female,42,Clothing,1,300.08,Cash,12-01-2023,Kanyon
+I100249,C209647,Male,40,Clothing,5,1500.40,"Credit Card",19-12-2022,Kanyon
+I100251,C228482,Female,36,Souvenir,4,46.92,Cash,29-05-2022,"Metropol AVM"
+I100261,C315632,Female,41,Cosmetics,2,81.32,"Credit Card",03-03-2023,"Mall of Istanbul"
+I100267,C299948,Female,57,Cosmetics,4,162.64,"Debit Card",11-12-2022,Kanyon
+I100271,C892772,Male,37,Toys,4,143.36,"Debit Card",13-02-2021,Metrocity
+I100273,C291963,Female,67,Toys,5,179.20,Cash,10-05-2021,"Cevahir AVM"
+I100281,C711548,Male,39,Toys,1,35.84,"Debit Card",28-06-2021,Kanyon
+I100282,C836957,Male,45,Clothing,3,900.24,Cash,30-07-2022,"Viaport Outlet"
+I100284,C174674,Female,66,Clothing,2,600.16,"Credit Card",13-08-2022,Kanyon
+I100288,C435081,Female,33,"Food & Beverage",3,15.69,"Credit Card",13-02-2022,Kanyon
+I100290,C118172,Male,45,Cosmetics,3,121.98,"Credit Card",24-12-2021,"Mall of Istanbul"
+I100291,C832260,Male,18,Clothing,5,1500.40,"Debit Card",03-08-2021,"Istinye Park"
+I100292,C721616,Female,21,Clothing,2,600.16,Cash,16-08-2022,"Mall of Istanbul"
+I100293,C991830,Female,28,"Food & Beverage",3,15.69,Cash,28-11-2022,Kanyon
+I100294,C277127,Male,52,"Food & Beverage",3,15.69,Cash,12-12-2022,"Istinye Park"
+I100299,C179079,Male,19,Clothing,5,1500.40,Cash,30-09-2022,"Mall of Istanbul"
+I100301,C553904,Female,20,Clothing,4,1200.32,"Credit Card",20-08-2021,"Mall of Istanbul"
+I100307,C887007,Female,58,Clothing,3,900.24,"Credit Card",24-01-2022,Kanyon
+I100308,C104593,Male,18,"Food & Beverage",1,5.23,Cash,11-07-2022,"Mall of Istanbul"
+I100310,C183161,Female,46,Cosmetics,4,162.64,Cash,22-04-2022,"Mall of Istanbul"
+I100311,C115462,Female,55,Clothing,4,1200.32,Cash,20-04-2022,"Zorlu Center"
+I100312,C280934,Male,34,"Food & Beverage",2,10.46,"Credit Card",29-10-2022,"Emaar Square Mall"
+I100313,C144410,Female,64,Cosmetics,4,162.64,Cash,17-11-2022,Metrocity
+I100315,C242277,Female,30,Cosmetics,3,121.98,"Debit Card",04-08-2021,"Emaar Square Mall"
+I100316,C248553,Male,40,Shoes,2,1200.34,Cash,13-12-2022,"Cevahir AVM"
+I100320,C152872,Female,21,Clothing,2,600.16,Cash,10-10-2022,"Emaar Square Mall"
+I100321,C113910,Female,59,Toys,2,71.68,"Credit Card",23-05-2022,"Forum Istanbul"
+I100323,C107529,Male,66,Cosmetics,3,121.98,"Debit Card",19-05-2022,Kanyon
+I100324,C288166,Female,61,Clothing,5,1500.40,"Debit Card",30-12-2022,"Metropol AVM"
+I100328,C152052,Female,69,"Food & Beverage",3,15.69,"Credit Card",22-04-2022,Kanyon
+I100330,C453598,Male,26,Cosmetics,5,203.30,"Credit Card",15-07-2022,Metrocity
+I100336,C202040,Female,39,"Food & Beverage",1,5.23,Cash,01-08-2022,"Metropol AVM"
+I100338,C779694,Male,62,"Food & Beverage",2,10.46,Cash,29-06-2022,"Viaport Outlet"
+I100354,C135028,Male,22,Technology,1,1050.00,"Credit Card",24-08-2021,"Metropol AVM"
+I100355,C189409,Female,57,Clothing,5,1500.40,Cash,25-10-2022,Kanyon
+I100357,C494452,Female,23,Cosmetics,3,121.98,"Debit Card",02-05-2021,"Forum Istanbul"
+I100358,C339237,Female,21,Cosmetics,5,203.30,Cash,22-09-2021,Metrocity
+I100361,C224357,Female,26,"Food & Beverage",5,26.15,Cash,29-06-2021,"Viaport Outlet"
+I100364,C231500,Female,54,Clothing,2,600.16,"Debit Card",15-04-2021,"Zorlu Center"
+I100365,C624809,Female,47,Clothing,5,1500.40,"Credit Card",19-05-2021,"Emaar Square Mall"
+I100366,C296054,Female,69,Clothing,1,300.08,"Debit Card",05-07-2021,"Cevahir AVM"
+I100367,C268495,Male,61,"Food & Beverage",5,26.15,Cash,22-11-2021,Kanyon
+I100368,C168429,Female,63,"Food & Beverage",1,5.23,"Credit Card",17-01-2022,Kanyon
+I100377,C272529,Female,62,Toys,3,107.52,"Debit Card",23-12-2021,Metrocity
+I100381,C243648,Female,36,Clothing,2,600.16,Cash,02-12-2022,"Forum Istanbul"
+I100387,C234074,Female,21,"Food & Beverage",2,10.46,Cash,16-05-2021,"Mall of Istanbul"
+I100397,C262466,Female,34,Cosmetics,1,40.66,"Debit Card",24-09-2021,"Forum Istanbul"
+I100399,C250107,Female,46,"Food & Beverage",5,26.15,Cash,01-02-2022,"Mall of Istanbul"
+I100400,C271625,Female,62,Shoes,4,2400.68,"Credit Card",16-01-2021,Metrocity
+I100401,C291610,Female,34,Shoes,3,1800.51,"Credit Card",06-03-2023,"Cevahir AVM"
+I100404,C116794,Female,64,Cosmetics,1,40.66,"Credit Card",03-11-2021,"Mall of Istanbul"
+I100406,C146640,Male,62,Cosmetics,3,121.98,"Credit Card",16-06-2021,Kanyon
+I100408,C128638,Female,37,Toys,3,107.52,Cash,09-08-2021,Kanyon
+I100412,C313809,Female,35,"Food & Beverage",2,10.46,"Credit Card",18-09-2022,Metrocity
+I100414,C233655,Male,56,Souvenir,2,23.46,"Debit Card",10-01-2023,"Mall of Istanbul"
+I100417,C310007,Female,46,Clothing,3,900.24,Cash,17-07-2022,"Mall of Istanbul"
+I100419,C937473,Male,53,Souvenir,2,23.46,"Credit Card",21-04-2022,"Mall of Istanbul"
+I100420,C261035,Female,69,Cosmetics,3,121.98,"Credit Card",06-07-2021,"Viaport Outlet"
+I100423,C664680,Female,33,"Food & Beverage",4,20.92,"Debit Card",22-04-2021,Metrocity
+I100425,C386315,Female,52,Cosmetics,1,40.66,Cash,29-08-2021,"Metropol AVM"
+I100426,C133701,Female,47,Cosmetics,3,121.98,Cash,24-12-2022,"Istinye Park"
+I100434,C295965,Male,61,Cosmetics,4,162.64,Cash,14-07-2021,"Mall of Istanbul"
+I100439,C224698,Male,26,Shoes,5,3000.85,"Credit Card",02-03-2023,"Metropol AVM"
+I100441,C202089,Female,43,Cosmetics,3,121.98,Cash,09-09-2022,"Istinye Park"
+I100443,C826051,Female,30,Souvenir,4,46.92,"Debit Card",16-04-2021,"Istinye Park"
+I100445,C307576,Female,18,Clothing,1,300.08,"Debit Card",02-11-2021,"Istinye Park"
+I100454,C851133,Female,40,Toys,3,107.52,"Debit Card",24-02-2023,"Istinye Park"
+I100455,C191387,Female,56,Souvenir,5,58.65,Cash,04-09-2022,"Metropol AVM"
+I100458,C150447,Female,19,Toys,2,71.68,"Credit Card",12-04-2022,Metrocity
+I100459,C194835,Female,37,Clothing,3,900.24,"Debit Card",18-09-2021,Metrocity
+I100462,C363980,Female,46,Souvenir,5,58.65,Cash,04-01-2021,"Metropol AVM"
+I100464,C129826,Male,44,Clothing,2,600.16,"Debit Card",01-05-2021,"Mall of Istanbul"
+I100465,C211946,Female,57,Clothing,1,300.08,Cash,14-01-2022,"Mall of Istanbul"
+I100466,C235798,Male,30,Clothing,4,1200.32,"Debit Card",30-09-2021,"Forum Istanbul"
+I100470,C219411,Female,32,Shoes,1,600.17,"Credit Card",08-11-2021,"Istinye Park"
+I100472,C176862,Male,43,Cosmetics,1,40.66,Cash,01-09-2021,"Mall of Istanbul"
+I100473,C607315,Female,51,Books,5,75.75,"Debit Card",01-01-2021,"Mall of Istanbul"
+I100484,C135857,Male,50,Clothing,1,300.08,"Debit Card",26-01-2021,"Mall of Istanbul"
+I100487,C213360,Female,22,Cosmetics,4,162.64,Cash,19-02-2021,Kanyon
+I100491,C212593,Male,57,Shoes,4,2400.68,"Credit Card",29-03-2021,Kanyon
+I100494,C227575,Male,56,Toys,3,107.52,"Debit Card",19-12-2021,Metrocity
+I100496,C174558,Female,51,Clothing,2,600.16,Cash,26-11-2021,Metrocity
+I100498,C498727,Female,63,Technology,5,5250.00,Cash,03-02-2023,"Cevahir AVM"
+I100499,C114407,Male,45,Clothing,5,1500.40,Cash,09-05-2021,"Cevahir AVM"
+I100501,C338282,Female,18,Technology,1,1050.00,"Debit Card",31-08-2021,Metrocity
+I100502,C238358,Male,28,Toys,1,35.84,"Credit Card",10-10-2021,"Mall of Istanbul"
+I100504,C703075,Female,59,Shoes,2,1200.34,Cash,31-03-2021,"Mall of Istanbul"
+I100508,C249896,Female,20,Clothing,3,900.24,"Debit Card",24-03-2021,"Viaport Outlet"
+I100512,C208841,Male,36,"Food & Beverage",3,15.69,"Debit Card",13-04-2022,Kanyon
+I100519,C233898,Male,49,Clothing,4,1200.32,"Credit Card",25-01-2021,Kanyon
+I100522,C100218,Male,26,Clothing,5,1500.40,Cash,06-11-2021,Kanyon
+I100526,C356129,Male,35,Cosmetics,3,121.98,"Debit Card",17-08-2022,"Mall of Istanbul"
+I100527,C274542,Male,54,Clothing,1,300.08,Cash,26-06-2022,Metrocity
+I100537,C392460,Female,62,Souvenir,3,35.19,"Debit Card",05-04-2022,Kanyon
+I100538,C312561,Female,65,Clothing,3,900.24,Cash,19-01-2022,"Istinye Park"
+I100540,C641482,Female,35,Clothing,2,600.16,"Credit Card",14-06-2022,Metrocity
+I100541,C155234,Female,65,Souvenir,2,23.46,Cash,10-05-2021,"Istinye Park"
+I100542,C273404,Male,23,Souvenir,3,35.19,"Credit Card",05-06-2021,"Istinye Park"
+I100543,C193964,Female,52,"Food & Beverage",2,10.46,Cash,05-03-2022,"Mall of Istanbul"
+I100547,C173500,Male,49,"Food & Beverage",1,5.23,"Credit Card",07-08-2021,"Mall of Istanbul"
+I100550,C123577,Female,38,Souvenir,5,58.65,Cash,22-11-2022,"Cevahir AVM"
+I100552,C213606,Female,30,"Food & Beverage",3,15.69,"Credit Card",09-11-2021,"Metropol AVM"
+I100555,C701082,Female,44,Clothing,3,900.24,Cash,10-09-2022,Kanyon
+I100558,C209906,Male,27,Cosmetics,3,121.98,"Credit Card",25-05-2021,"Istinye Park"
+I100561,C255643,Female,26,Clothing,4,1200.32,"Debit Card",29-08-2021,"Cevahir AVM"
+I100565,C833577,Male,42,Clothing,5,1500.40,Cash,17-09-2022,"Metropol AVM"
+I100566,C266257,Male,21,Clothing,2,600.16,Cash,10-10-2022,Metrocity
+I100567,C272165,Male,18,Toys,5,179.20,"Credit Card",03-01-2021,"Mall of Istanbul"
+I100571,C668914,Male,66,Clothing,1,300.08,"Debit Card",07-01-2023,"Zorlu Center"
+I100572,C245347,Female,67,Clothing,1,300.08,Cash,30-07-2021,"Istinye Park"
+I100578,C108143,Female,67,Shoes,4,2400.68,Cash,28-02-2023,"Zorlu Center"
+I100579,C260481,Female,36,"Food & Beverage",3,15.69,"Credit Card",24-09-2022,Kanyon
+I100580,C131158,Female,68,Toys,3,107.52,Cash,14-09-2022,"Cevahir AVM"
+I100582,C638859,Female,66,Clothing,2,600.16,Cash,02-11-2021,"Istinye Park"
+I100586,C580838,Female,62,Clothing,2,600.16,"Credit Card",18-03-2022,"Istinye Park"
+I100591,C881158,Male,23,Toys,1,35.84,"Credit Card",20-02-2022,Metrocity
+I100593,C240318,Male,23,Technology,2,2100.00,Cash,11-06-2021,"Mall of Istanbul"
+I100599,C114161,Male,27,Shoes,2,1200.34,"Credit Card",24-11-2021,"Mall of Istanbul"
+I100601,C180415,Male,49,Toys,4,143.36,Cash,09-06-2022,"Mall of Istanbul"
+I100607,C315778,Male,60,Clothing,5,1500.40,"Debit Card",27-11-2021,Kanyon
+I100610,C122598,Male,64,Books,5,75.75,"Debit Card",06-04-2022,"Mall of Istanbul"
+I100611,C234086,Male,55,Toys,3,107.52,Cash,21-03-2022,"Metropol AVM"
+I100614,C261517,Female,41,Cosmetics,5,203.30,Cash,11-07-2021,"Cevahir AVM"
+I100615,C197426,Female,57,Clothing,5,1500.40,Cash,12-05-2022,"Mall of Istanbul"
+I100617,C745941,Male,56,Books,5,75.75,Cash,06-07-2022,"Zorlu Center"
+I100618,C911820,Male,23,Books,2,30.30,"Credit Card",04-03-2021,Metrocity
+I100622,C306817,Female,45,Clothing,3,900.24,"Credit Card",18-01-2023,Kanyon
+I100624,C552809,Female,26,Clothing,5,1500.40,"Debit Card",05-03-2021,Metrocity
+I100627,C132581,Male,54,Books,3,45.45,"Debit Card",10-12-2022,Metrocity
+I100628,C135129,Male,25,Clothing,1,300.08,Cash,09-04-2022,"Viaport Outlet"
+I100630,C753708,Female,66,"Food & Beverage",4,20.92,"Debit Card",02-04-2022,Kanyon
+I100634,C461631,Female,22,Clothing,5,1500.40,Cash,23-05-2022,Kanyon
+I100635,C289537,Female,69,Clothing,4,1200.32,"Debit Card",03-06-2021,"Metropol AVM"
+I100639,C231484,Male,65,Technology,4,4200.00,"Credit Card",02-05-2022,Metrocity
+I100651,C180588,Female,41,Cosmetics,2,81.32,"Credit Card",15-09-2021,"Metropol AVM"
+I100652,C214732,Female,67,Clothing,2,600.16,"Credit Card",17-01-2023,"Cevahir AVM"
+I100656,C337441,Female,54,Cosmetics,2,81.32,Cash,18-02-2023,"Metropol AVM"
+I100659,C562791,Male,27,Souvenir,3,35.19,Cash,14-07-2021,"Emaar Square Mall"
+I100663,C322131,Female,41,"Food & Beverage",5,26.15,Cash,26-09-2021,"Mall of Istanbul"
+I100664,C603641,Male,62,Clothing,2,600.16,"Debit Card",19-10-2021,"Mall of Istanbul"
+I100666,C996052,Female,62,Books,2,30.30,Cash,02-04-2022,Metrocity
+I100671,C284324,Male,28,Clothing,1,300.08,Cash,03-05-2021,Metrocity
+I100682,C134970,Male,58,Toys,4,143.36,Cash,22-03-2021,"Istinye Park"
+I100684,C175424,Male,30,Cosmetics,5,203.30,"Credit Card",11-08-2021,"Emaar Square Mall"
+I100685,C263059,Male,60,Souvenir,2,23.46,"Debit Card",24-05-2021,"Forum Istanbul"
+I100691,C116434,Female,35,Clothing,2,600.16,Cash,26-04-2022,"Viaport Outlet"
+I100694,C318405,Female,62,"Food & Beverage",4,20.92,Cash,27-11-2022,Kanyon
+I100696,C131827,Male,44,Clothing,2,600.16,Cash,12-07-2021,Metrocity
+I100697,C159194,Female,31,Clothing,4,1200.32,Cash,19-12-2021,Kanyon
+I100699,C844692,Male,44,Books,1,15.15,"Credit Card",07-03-2021,"Mall of Istanbul"
+I100700,C831975,Female,60,Clothing,4,1200.32,"Credit Card",24-10-2021,"Viaport Outlet"
+I100703,C263996,Male,36,Clothing,2,600.16,Cash,08-08-2022,Metrocity
+I100704,C864065,Male,24,Technology,2,2100.00,"Debit Card",30-04-2021,"Mall of Istanbul"
+I100709,C156430,Female,40,Clothing,3,900.24,"Debit Card",18-08-2021,"Mall of Istanbul"
+I100719,C193403,Male,69,Toys,2,71.68,Cash,17-07-2022,"Zorlu Center"
+I100721,C993556,Female,51,Clothing,2,600.16,"Debit Card",02-05-2022,Kanyon
+I100723,C150582,Female,38,Toys,1,35.84,"Debit Card",08-02-2021,"Mall of Istanbul"
+I100731,C868764,Female,28,Books,1,15.15,"Debit Card",29-12-2022,"Emaar Square Mall"
+I100733,C932952,Female,42,Books,1,15.15,Cash,28-02-2022,Kanyon
+I100735,C107829,Female,44,Souvenir,4,46.92,"Debit Card",02-02-2022,"Metropol AVM"
+I100738,C155129,Male,20,Clothing,2,600.16,"Debit Card",31-03-2022,Kanyon
+I100741,C828874,Male,41,Cosmetics,5,203.30,"Debit Card",05-01-2021,"Cevahir AVM"
+I100742,C422142,Female,58,"Food & Beverage",3,15.69,"Credit Card",05-04-2022,"Metropol AVM"
+I100744,C146601,Female,50,Clothing,4,1200.32,Cash,31-03-2022,Kanyon
+I100749,C272878,Female,52,Toys,2,71.68,Cash,04-03-2021,Metrocity
+I100756,C771102,Male,31,Clothing,1,300.08,Cash,17-02-2023,"Mall of Istanbul"
+I100760,C800785,Female,18,Books,4,60.60,"Credit Card",19-01-2021,"Mall of Istanbul"
+I100762,C183883,Female,49,Clothing,1,300.08,"Debit Card",11-01-2023,"Zorlu Center"
+I100763,C264447,Female,35,Cosmetics,4,162.64,Cash,10-07-2022,"Cevahir AVM"
+I100764,C564073,Male,54,Cosmetics,3,121.98,"Credit Card",07-02-2023,"Istinye Park"
+I100768,C223065,Female,49,Cosmetics,3,121.98,Cash,28-05-2022,Kanyon
+I100770,C140792,Female,61,Toys,5,179.20,"Credit Card",10-04-2021,"Metropol AVM"
+I100771,C235228,Female,23,"Food & Beverage",3,15.69,"Credit Card",07-03-2022,"Istinye Park"
+I100775,C981100,Male,23,Cosmetics,5,203.30,Cash,02-04-2021,"Metropol AVM"
+I100777,C303252,Female,38,Toys,3,107.52,"Credit Card",29-10-2021,Kanyon
+I100780,C191396,Female,62,Books,3,45.45,"Credit Card",06-04-2021,"Mall of Istanbul"
+I100782,C582964,Male,55,"Food & Beverage",3,15.69,"Debit Card",11-03-2022,"Zorlu Center"
+I100791,C289735,Female,39,Cosmetics,4,162.64,Cash,11-10-2021,"Metropol AVM"
+I100793,C328805,Male,29,Cosmetics,3,121.98,Cash,15-03-2021,"Istinye Park"
+I100795,C232822,Male,62,Books,2,30.30,"Debit Card",06-07-2022,Kanyon
+I100797,C224221,Male,23,Shoes,4,2400.68,"Credit Card",17-10-2021,"Metropol AVM"
+I100803,C273636,Female,38,Books,5,75.75,Cash,24-02-2023,"Mall of Istanbul"
+I100812,C208761,Female,66,Clothing,5,1500.40,"Credit Card",24-03-2022,"Metropol AVM"
+I100813,C250804,Male,63,Clothing,2,600.16,Cash,18-03-2022,"Emaar Square Mall"
+I100814,C130818,Female,38,Books,3,45.45,"Credit Card",12-08-2022,"Mall of Istanbul"
+I100815,C222582,Male,50,Toys,4,143.36,Cash,19-04-2022,Kanyon
+I100818,C151068,Female,21,"Food & Beverage",3,15.69,Cash,08-01-2021,"Mall of Istanbul"
+I100820,C180870,Male,20,"Food & Beverage",2,10.46,Cash,26-12-2021,Metrocity
+I100822,C336505,Male,55,Cosmetics,1,40.66,Cash,15-11-2021,"Zorlu Center"
+I100829,C115788,Male,32,Souvenir,5,58.65,"Credit Card",30-07-2021,"Istinye Park"
+I100835,C259176,Female,43,Clothing,5,1500.40,"Debit Card",27-08-2022,"Viaport Outlet"
+I100837,C827434,Male,65,Clothing,1,300.08,Cash,12-01-2023,"Cevahir AVM"
+I100842,C143467,Female,45,"Food & Beverage",5,26.15,"Credit Card",08-06-2021,"Forum Istanbul"
+I100843,C170564,Female,54,Clothing,4,1200.32,"Debit Card",17-01-2022,"Metropol AVM"
+I100851,C256797,Female,32,Cosmetics,1,40.66,"Credit Card",10-09-2022,"Istinye Park"
+I100855,C125109,Female,63,Clothing,3,900.24,"Credit Card",25-06-2021,"Emaar Square Mall"
+I100856,C475330,Male,44,"Food & Beverage",3,15.69,Cash,09-06-2022,"Metropol AVM"
+I100861,C281937,Female,49,Cosmetics,2,81.32,Cash,24-12-2022,"Viaport Outlet"
+I100863,C302400,Male,35,"Food & Beverage",2,10.46,Cash,04-01-2023,"Emaar Square Mall"
+I100865,C234663,Female,44,Cosmetics,3,121.98,Cash,10-02-2022,"Istinye Park"
+I100866,C265260,Female,54,"Food & Beverage",3,15.69,Cash,16-08-2021,Metrocity
+I100870,C236060,Male,46,Books,2,30.30,Cash,02-03-2023,Metrocity
+I100875,C232349,Female,20,Toys,2,71.68,Cash,02-09-2021,"Mall of Istanbul"
+I100880,C217725,Female,39,Shoes,3,1800.51,Cash,13-01-2021,"Metropol AVM"
+I100881,C332806,Male,32,Souvenir,1,11.73,"Debit Card",06-05-2021,Kanyon
+I100884,C729531,Female,37,Souvenir,1,11.73,Cash,15-02-2023,Metrocity
+I100885,C102033,Male,38,Books,5,75.75,Cash,01-09-2021,"Mall of Istanbul"
+I100886,C676444,Female,41,Cosmetics,5,203.30,Cash,19-12-2021,Metrocity
+I100897,C402407,Male,61,Shoes,4,2400.68,"Credit Card",05-10-2022,Kanyon
+I100899,C256232,Male,30,Clothing,5,1500.40,Cash,23-06-2022,Kanyon
+I100900,C221280,Male,20,"Food & Beverage",5,26.15,Cash,22-08-2021,"Viaport Outlet"
+I100901,C178198,Female,41,Clothing,1,300.08,"Debit Card",17-06-2022,Kanyon
+I100903,C702152,Female,21,Clothing,3,900.24,"Debit Card",20-12-2021,Metrocity
+I100904,C138573,Male,32,"Food & Beverage",5,26.15,"Debit Card",23-12-2022,Kanyon
+I100911,C330379,Female,18,Technology,1,1050.00,"Credit Card",29-08-2021,Metrocity
+I100913,C229817,Female,41,Shoes,4,2400.68,Cash,26-08-2022,"Viaport Outlet"
+I100914,C299493,Female,22,"Food & Beverage",1,5.23,"Credit Card",17-09-2022,Kanyon
+I100919,C189282,Female,31,Cosmetics,1,40.66,"Credit Card",04-05-2021,Kanyon
+I100921,C323178,Female,53,Cosmetics,4,162.64,"Credit Card",25-08-2021,Metrocity
+I100922,C185007,Female,31,Cosmetics,3,121.98,Cash,19-12-2021,"Mall of Istanbul"
+I100923,C139812,Female,41,"Food & Beverage",1,5.23,"Credit Card",08-04-2022,"Istinye Park"
+I100929,C224506,Male,59,Cosmetics,1,40.66,"Credit Card",12-02-2021,"Mall of Istanbul"
+I100932,C204475,Male,43,Clothing,2,600.16,Cash,28-10-2022,"Mall of Istanbul"
+I100936,C331442,Female,35,Clothing,1,300.08,"Debit Card",21-06-2021,"Mall of Istanbul"
+I100953,C250015,Female,46,Shoes,4,2400.68,Cash,25-02-2022,"Istinye Park"
+I100960,C156642,Female,57,Books,3,45.45,Cash,31-01-2023,Kanyon
+I100961,C157517,Female,47,Clothing,2,600.16,Cash,27-04-2022,"Forum Istanbul"
+I100963,C500323,Female,35,Books,1,15.15,"Debit Card",17-06-2021,"Cevahir AVM"
+I100964,C253827,Male,29,Cosmetics,4,162.64,Cash,19-07-2021,"Mall of Istanbul"
+I100965,C336119,Female,63,Shoes,4,2400.68,Cash,25-06-2021,"Emaar Square Mall"
+I100969,C242347,Male,51,Clothing,1,300.08,"Credit Card",09-06-2021,"Istinye Park"
+I100977,C221903,Female,27,Toys,3,107.52,"Debit Card",05-09-2022,Metrocity
+I100978,C172330,Female,24,Cosmetics,5,203.30,Cash,18-06-2022,Metrocity
+I100981,C116368,Female,33,Clothing,2,600.16,"Credit Card",29-01-2023,"Metropol AVM"
+I100983,C203462,Female,67,Clothing,1,300.08,"Credit Card",29-05-2022,"Zorlu Center"
+I100988,C202289,Male,37,Clothing,2,600.16,Cash,27-09-2022,"Istinye Park"
+I100991,C326660,Male,29,Shoes,5,3000.85,"Debit Card",07-03-2021,"Metropol AVM"
+I100998,C253884,Male,24,Toys,3,107.52,"Debit Card",10-09-2021,Kanyon
+I101008,C314812,Male,62,Shoes,3,1800.51,Cash,09-04-2022,"Istinye Park"
+I101010,C766878,Female,56,Clothing,2,600.16,"Debit Card",07-03-2022,"Emaar Square Mall"
+I101017,C124932,Female,40,Shoes,5,3000.85,Cash,24-07-2022,"Mall of Istanbul"
+I101018,C266367,Female,26,"Food & Beverage",1,5.23,"Debit Card",20-12-2022,"Forum Istanbul"
+I101022,C237146,Female,25,Toys,3,107.52,"Credit Card",21-09-2021,Kanyon
+I101031,C215753,Female,52,Cosmetics,4,162.64,"Credit Card",18-11-2021,"Metropol AVM"
+I101034,C722304,Male,19,Toys,5,179.20,Cash,26-02-2022,Metrocity
+I101037,C216533,Female,30,Souvenir,2,23.46,Cash,07-09-2021,"Forum Istanbul"
+I101038,C144914,Female,42,Technology,2,2100.00,"Debit Card",02-07-2021,"Cevahir AVM"
+I101043,C289681,Female,32,Clothing,1,300.08,"Credit Card",01-12-2022,"Cevahir AVM"
+I101048,C186345,Male,19,Clothing,2,600.16,Cash,06-09-2022,Metrocity
+I101051,C722098,Male,59,Shoes,3,1800.51,"Credit Card",13-06-2021,"Mall of Istanbul"
+I101052,C844541,Male,66,Technology,3,3150.00,"Debit Card",25-06-2022,Kanyon
+I101059,C236719,Female,44,Clothing,5,1500.40,Cash,25-08-2021,"Mall of Istanbul"
+I101060,C131806,Female,54,Clothing,2,600.16,"Credit Card",16-11-2021,Metrocity
+I101070,C330130,Female,18,Technology,1,1050.00,"Credit Card",21-04-2022,Kanyon
+I101083,C165321,Female,57,Clothing,3,900.24,"Debit Card",04-02-2021,Kanyon
+I101084,C943266,Female,26,"Food & Beverage",1,5.23,Cash,18-10-2022,Kanyon
+I101086,C168165,Female,45,Shoes,4,2400.68,"Debit Card",12-02-2022,Kanyon
+I101088,C824542,Female,28,Toys,5,179.20,"Debit Card",01-01-2021,Kanyon
+I101089,C392188,Male,39,Clothing,5,1500.40,"Credit Card",06-05-2021,"Mall of Istanbul"
+I101093,C301696,Female,43,Clothing,4,1200.32,Cash,05-07-2021,"Mall of Istanbul"
+I101103,C194266,Female,45,Shoes,4,2400.68,Cash,06-10-2021,"Forum Istanbul"
+I101113,C315161,Female,64,Shoes,3,1800.51,Cash,12-04-2021,"Forum Istanbul"
+I101115,C540954,Female,30,Cosmetics,4,162.64,"Credit Card",01-08-2021,Metrocity
+I101130,C298295,Male,45,"Food & Beverage",3,15.69,Cash,10-09-2022,Kanyon
+I101131,C329519,Female,22,Cosmetics,5,203.30,"Credit Card",22-08-2022,"Metropol AVM"
+I101133,C270664,Female,63,Clothing,2,600.16,Cash,22-01-2022,Kanyon
+I101135,C689947,Male,48,Clothing,5,1500.40,"Credit Card",13-01-2021,Kanyon
+I101140,C122069,Female,20,Clothing,5,1500.40,"Credit Card",26-07-2022,"Forum Istanbul"
+I101143,C293655,Male,46,Souvenir,5,58.65,"Debit Card",25-02-2022,"Mall of Istanbul"
+I101146,C303865,Male,26,"Food & Beverage",2,10.46,"Credit Card",25-12-2022,"Viaport Outlet"
+I101148,C680169,Female,26,Cosmetics,4,162.64,Cash,21-04-2022,"Cevahir AVM"
+I101152,C276049,Male,30,Clothing,3,900.24,Cash,12-11-2021,Kanyon
+I101154,C453116,Male,61,Clothing,4,1200.32,"Credit Card",05-07-2021,Metrocity
+I101155,C114131,Female,58,Clothing,5,1500.40,Cash,08-06-2022,"Metropol AVM"
+I101156,C251408,Female,63,Clothing,2,600.16,Cash,07-12-2021,"Zorlu Center"
+I101165,C325003,Female,34,Clothing,1,300.08,"Debit Card",21-08-2022,Kanyon
+I101167,C492992,Female,39,"Food & Beverage",5,26.15,"Credit Card",31-01-2022,"Istinye Park"
+I101171,C786797,Female,64,Clothing,3,900.24,Cash,23-09-2021,"Mall of Istanbul"
+I101176,C195529,Female,31,"Food & Beverage",1,5.23,Cash,17-06-2021,"Istinye Park"
+I101181,C167199,Male,25,"Food & Beverage",1,5.23,Cash,22-12-2022,"Istinye Park"
+I101183,C274709,Female,41,Cosmetics,1,40.66,"Debit Card",10-03-2022,"Metropol AVM"
+I101185,C269338,Female,60,Cosmetics,3,121.98,"Credit Card",20-05-2022,"Istinye Park"
+I101189,C301407,Male,68,Souvenir,2,23.46,Cash,11-05-2022,Metrocity
+I101190,C115198,Female,66,"Food & Beverage",1,5.23,"Credit Card",02-04-2021,"Istinye Park"
+I101192,C298571,Male,66,Toys,5,179.20,Cash,15-11-2021,"Forum Istanbul"
+I101193,C298074,Female,69,"Food & Beverage",5,26.15,"Credit Card",04-05-2021,"Viaport Outlet"
+I101201,C296680,Male,51,Cosmetics,2,81.32,"Credit Card",20-06-2022,"Forum Istanbul"
+I101204,C147656,Female,42,Books,4,60.60,Cash,06-08-2022,"Mall of Istanbul"
+I101210,C316485,Female,20,Clothing,5,1500.40,"Credit Card",04-07-2022,"Zorlu Center"
+I101214,C229296,Female,40,Clothing,2,600.16,"Credit Card",11-03-2021,"Viaport Outlet"
+I101219,C296170,Female,52,Books,1,15.15,"Credit Card",30-04-2022,Kanyon
+I101220,C322664,Male,67,Souvenir,4,46.92,Cash,06-10-2022,"Metropol AVM"
+I101229,C256902,Female,19,"Food & Beverage",3,15.69,Cash,05-07-2022,Kanyon
+I101237,C239679,Female,65,Clothing,3,900.24,"Credit Card",10-02-2021,"Mall of Istanbul"
+I101239,C362001,Female,25,Technology,2,2100.00,"Credit Card",14-03-2021,Metrocity
+I101247,C178321,Male,35,Clothing,3,900.24,"Credit Card",25-02-2021,"Mall of Istanbul"
+I101252,C998123,Female,23,Toys,2,71.68,"Credit Card",21-01-2021,"Forum Istanbul"
+I101255,C164171,Female,66,"Food & Beverage",2,10.46,Cash,11-12-2021,"Cevahir AVM"
+I101256,C129775,Male,50,Clothing,2,600.16,"Credit Card",26-06-2022,"Mall of Istanbul"
+I101263,C268120,Male,69,"Food & Beverage",4,20.92,"Credit Card",12-12-2022,"Mall of Istanbul"
+I101279,C237894,Female,48,Technology,3,3150.00,Cash,22-06-2022,"Metropol AVM"
+I101280,C663744,Female,39,Clothing,2,600.16,"Credit Card",26-03-2022,"Mall of Istanbul"
+I101281,C177781,Male,50,Clothing,4,1200.32,"Debit Card",02-03-2022,"Emaar Square Mall"
+I101282,C317379,Female,50,Clothing,3,900.24,Cash,30-06-2022,"Viaport Outlet"
+I101283,C294350,Female,48,"Food & Beverage",1,5.23,"Credit Card",19-06-2022,Metrocity
+I101288,C476777,Male,36,"Food & Beverage",1,5.23,Cash,24-07-2022,Kanyon
+I101290,C208569,Female,31,Souvenir,4,46.92,"Credit Card",13-02-2023,"Mall of Istanbul"
+I101296,C132787,Female,41,Cosmetics,2,81.32,"Debit Card",14-01-2023,"Istinye Park"
+I101301,C211329,Male,39,"Food & Beverage",5,26.15,"Credit Card",12-12-2022,Kanyon
+I101305,C131548,Female,66,Toys,3,107.52,Cash,07-03-2022,"Forum Istanbul"
+I101306,C162468,Female,42,Clothing,3,900.24,"Debit Card",21-05-2022,Kanyon
+I101308,C551127,Male,18,Shoes,2,1200.34,"Credit Card",12-03-2021,"Mall of Istanbul"
+I101312,C261678,Male,50,Clothing,5,1500.40,Cash,29-09-2021,"Mall of Istanbul"
+I101313,C463777,Female,62,Souvenir,1,11.73,"Credit Card",09-02-2021,Kanyon
+I101314,C995203,Male,20,"Food & Beverage",3,15.69,Cash,01-05-2022,Kanyon
+I101316,C100544,Female,40,Cosmetics,3,121.98,"Debit Card",24-06-2022,Metrocity
+I101318,C156439,Female,27,Clothing,1,300.08,"Debit Card",06-03-2021,Metrocity
+I101320,C264902,Male,18,Books,3,45.45,Cash,12-04-2022,"Mall of Istanbul"
+I101325,C101956,Female,27,Souvenir,1,11.73,Cash,25-02-2021,"Mall of Istanbul"
+I101328,C468550,Male,52,Clothing,2,600.16,Cash,24-07-2022,"Viaport Outlet"
+I101339,C162091,Female,51,Clothing,4,1200.32,"Credit Card",21-04-2021,"Forum Istanbul"
+I101343,C180911,Female,50,Toys,4,143.36,"Debit Card",02-06-2021,"Viaport Outlet"
+I101344,C107378,Male,54,Shoes,4,2400.68,"Credit Card",05-09-2022,Kanyon
+I101347,C280063,Female,58,Toys,2,71.68,"Credit Card",26-09-2021,Kanyon
+I101348,C126235,Female,67,Clothing,4,1200.32,"Credit Card",31-08-2022,"Mall of Istanbul"
+I101351,C726291,Female,52,Cosmetics,4,162.64,Cash,10-06-2021,"Viaport Outlet"
+I101352,C548721,Female,26,Cosmetics,2,81.32,Cash,22-01-2021,"Metropol AVM"
+I101353,C246402,Female,24,Cosmetics,2,81.32,"Debit Card",25-03-2022,"Istinye Park"
+I101354,C235189,Female,65,Cosmetics,2,81.32,"Debit Card",12-09-2022,"Emaar Square Mall"
+I101356,C227436,Male,38,Cosmetics,1,40.66,Cash,23-03-2022,Metrocity
+I101359,C269676,Male,42,Shoes,3,1800.51,Cash,08-12-2021,"Metropol AVM"
+I101360,C540352,Female,39,Shoes,5,3000.85,"Credit Card",11-07-2021,"Mall of Istanbul"
+I101361,C184579,Male,39,Clothing,4,1200.32,Cash,29-05-2021,"Istinye Park"
+I101363,C182070,Male,18,Clothing,2,600.16,"Credit Card",26-11-2022,Metrocity
+I101366,C927671,Female,47,Clothing,2,600.16,"Credit Card",19-10-2021,Kanyon
+I101368,C236364,Male,60,Books,4,60.60,"Credit Card",07-02-2021,"Istinye Park"
+I101370,C313925,Female,59,Toys,5,179.20,"Credit Card",22-10-2021,Kanyon
+I101372,C180019,Female,22,Toys,5,179.20,"Credit Card",05-06-2021,"Forum Istanbul"
+I101378,C241757,Female,47,Books,3,45.45,Cash,30-12-2021,Metrocity
+I101379,C275478,Female,61,Clothing,1,300.08,Cash,16-01-2023,Kanyon
+I101383,C151482,Female,29,Cosmetics,5,203.30,"Credit Card",25-04-2022,Metrocity
+I101390,C314514,Female,35,Cosmetics,3,121.98,Cash,08-09-2021,"Mall of Istanbul"
+I101393,C109321,Female,55,"Food & Beverage",3,15.69,"Debit Card",31-07-2022,Kanyon
+I101394,C321439,Female,24,Books,1,15.15,Cash,07-06-2022,"Metropol AVM"
+I101398,C152504,Female,27,Cosmetics,2,81.32,"Credit Card",14-09-2022,"Mall of Istanbul"
+I101407,C323409,Female,32,Clothing,5,1500.40,Cash,16-07-2022,"Viaport Outlet"
+I101409,C431191,Female,21,Clothing,3,900.24,"Debit Card",10-11-2022,Kanyon
+I101410,C177708,Female,63,Clothing,3,900.24,Cash,13-06-2022,"Istinye Park"
+I101414,C104129,Female,20,Clothing,4,1200.32,Cash,12-08-2021,Metrocity
+I101418,C127683,Female,50,Clothing,3,900.24,"Credit Card",27-02-2021,"Emaar Square Mall"
+I101419,C502529,Male,54,Toys,2,71.68,"Credit Card",11-03-2021,"Istinye Park"
+I101423,C666388,Male,52,Books,3,45.45,Cash,03-02-2023,"Viaport Outlet"
+I101426,C262766,Female,67,Cosmetics,3,121.98,Cash,29-04-2021,Kanyon
+I101428,C197332,Female,21,Clothing,5,1500.40,"Debit Card",08-07-2021,"Mall of Istanbul"
+I101429,C148693,Female,50,Books,4,60.60,"Credit Card",17-04-2021,"Mall of Istanbul"
+I101433,C208860,Male,40,"Food & Beverage",3,15.69,"Credit Card",10-08-2022,"Mall of Istanbul"
+I101434,C310631,Male,30,Books,5,75.75,Cash,29-11-2021,"Mall of Istanbul"
+I101435,C245633,Female,29,Toys,2,71.68,"Credit Card",04-08-2022,"Metropol AVM"
+I101442,C837574,Female,29,Cosmetics,4,162.64,"Credit Card",05-09-2021,"Mall of Istanbul"
+I101444,C335486,Female,51,Souvenir,5,58.65,"Debit Card",17-12-2021,"Emaar Square Mall"
+I101445,C171342,Female,18,Cosmetics,4,162.64,"Credit Card",02-05-2022,Kanyon
+I101449,C220137,Male,33,Cosmetics,4,162.64,"Credit Card",05-12-2021,Metrocity
+I101452,C231594,Male,45,Clothing,2,600.16,"Credit Card",15-10-2021,"Emaar Square Mall"
+I101453,C666613,Female,65,Cosmetics,1,40.66,"Debit Card",09-04-2021,Kanyon
+I101454,C118691,Female,53,Clothing,3,900.24,Cash,20-04-2022,"Istinye Park"
+I101455,C154531,Male,69,Technology,3,3150.00,Cash,28-02-2022,Kanyon
+I101456,C283434,Male,36,Technology,4,4200.00,"Credit Card",26-12-2022,Kanyon
+I101458,C113888,Female,35,Clothing,1,300.08,Cash,21-07-2022,Metrocity
+I101460,C247762,Female,45,Clothing,5,1500.40,Cash,11-01-2022,"Zorlu Center"
+I101465,C250819,Female,23,Clothing,2,600.16,"Credit Card",16-06-2021,Metrocity
+I101466,C314331,Female,36,Clothing,2,600.16,Cash,29-09-2022,"Emaar Square Mall"
+I101467,C155383,Female,54,Toys,4,143.36,Cash,04-07-2022,"Metropol AVM"
+I101472,C216194,Female,45,Clothing,4,1200.32,Cash,06-07-2021,Metrocity
+I101475,C204569,Female,54,Souvenir,3,35.19,"Credit Card",04-08-2021,Kanyon
+I101476,C295108,Female,59,Toys,2,71.68,Cash,06-05-2022,"Istinye Park"
+I101480,C145217,Female,29,Books,1,15.15,"Credit Card",15-01-2023,Metrocity
+I101483,C670088,Female,54,Books,2,30.30,Cash,14-01-2022,"Viaport Outlet"
+I101489,C287411,Male,56,Toys,1,35.84,"Credit Card",14-03-2022,"Zorlu Center"
+I101498,C431849,Female,52,Clothing,2,600.16,"Debit Card",30-08-2021,"Mall of Istanbul"
+I101499,C208394,Male,52,Clothing,4,1200.32,Cash,16-06-2022,Kanyon
+I101509,C416542,Female,48,"Food & Beverage",2,10.46,Cash,23-04-2022,"Istinye Park"
+I101511,C286261,Male,58,"Food & Beverage",4,20.92,"Credit Card",06-10-2021,Kanyon
+I101512,C657278,Female,43,Clothing,4,1200.32,Cash,30-07-2021,Kanyon
+I101518,C107937,Female,37,Toys,4,143.36,Cash,09-04-2022,"Mall of Istanbul"
+I101520,C260507,Female,32,Clothing,1,300.08,"Debit Card",12-03-2021,Kanyon
+I101521,C234258,Male,54,Clothing,5,1500.40,"Debit Card",28-03-2022,"Forum Istanbul"
+I101525,C616099,Female,69,Clothing,3,900.24,Cash,22-10-2021,"Zorlu Center"
+I101526,C332894,Female,24,Clothing,5,1500.40,Cash,18-08-2022,"Forum Istanbul"
+I101528,C149902,Female,60,Technology,5,5250.00,Cash,19-05-2022,"Zorlu Center"
+I101529,C203227,Female,20,Toys,5,179.20,"Debit Card",17-01-2021,Metrocity
+I101532,C128002,Male,56,Toys,3,107.52,Cash,01-07-2022,"Cevahir AVM"
+I101535,C219503,Female,39,Cosmetics,4,162.64,"Credit Card",01-03-2023,"Istinye Park"
+I101536,C323102,Female,66,Toys,2,71.68,"Credit Card",07-12-2022,"Emaar Square Mall"
+I101537,C168070,Female,26,Souvenir,1,11.73,"Credit Card",06-11-2021,"Cevahir AVM"
+I101541,C210572,Female,58,Clothing,3,900.24,"Debit Card",13-12-2021,"Istinye Park"
+I101544,C208879,Female,48,Cosmetics,2,81.32,"Credit Card",13-02-2021,Metrocity
+I101546,C121708,Female,45,Shoes,2,1200.34,"Credit Card",18-02-2023,Metrocity
+I101549,C311614,Female,45,Toys,3,107.52,"Debit Card",20-07-2021,"Zorlu Center"
+I101551,C164448,Female,45,Clothing,2,600.16,"Debit Card",27-12-2021,Metrocity
+I101554,C273482,Female,41,Clothing,2,600.16,Cash,01-08-2021,"Emaar Square Mall"
+I101555,C758873,Female,25,Cosmetics,5,203.30,"Debit Card",05-06-2022,Kanyon
+I101569,C148240,Male,21,Toys,2,71.68,"Credit Card",14-07-2022,"Emaar Square Mall"
+I101572,C210353,Female,50,Clothing,4,1200.32,Cash,06-11-2022,"Metropol AVM"
+I101573,C150669,Female,57,Cosmetics,4,162.64,Cash,28-07-2022,"Cevahir AVM"
+I101574,C178897,Female,32,"Food & Beverage",2,10.46,"Credit Card",02-02-2023,Kanyon
+I101576,C262719,Male,58,Clothing,1,300.08,"Debit Card",12-08-2021,Kanyon
+I101578,C302346,Female,61,Books,3,45.45,Cash,04-03-2023,Metrocity
+I101580,C266174,Male,47,Clothing,4,1200.32,"Debit Card",03-04-2021,Kanyon
+I101585,C157226,Female,65,Books,3,45.45,"Credit Card",26-09-2022,"Mall of Istanbul"
+I101587,C434876,Female,53,Technology,5,5250.00,Cash,11-01-2022,"Metropol AVM"
+I101588,C769285,Female,63,Clothing,3,900.24,Cash,17-05-2021,Kanyon
+I101592,C228966,Female,54,Books,1,15.15,"Credit Card",25-10-2021,Kanyon
+I101594,C117752,Female,50,Shoes,3,1800.51,Cash,08-08-2021,"Cevahir AVM"
+I101596,C309263,Female,43,Books,5,75.75,Cash,30-08-2021,Kanyon
+I101598,C338372,Female,59,Cosmetics,2,81.32,"Credit Card",30-07-2021,Metrocity
+I101603,C309591,Male,67,Toys,2,71.68,Cash,05-10-2021,Kanyon
+I101605,C756859,Female,30,Clothing,2,600.16,Cash,25-01-2023,"Mall of Istanbul"
+I101606,C279630,Male,25,Clothing,1,300.08,Cash,28-11-2021,"Mall of Istanbul"
+I101612,C185174,Male,39,Toys,3,107.52,"Credit Card",28-12-2022,Metrocity
+I101618,C203219,Male,24,Clothing,1,300.08,Cash,10-01-2021,Kanyon
+I101620,C104200,Female,69,Clothing,4,1200.32,"Debit Card",12-08-2021,Kanyon
+I101621,C325188,Female,18,Souvenir,4,46.92,Cash,19-03-2022,Kanyon
+I101624,C115743,Male,62,Cosmetics,3,121.98,Cash,15-10-2021,Kanyon
+I101627,C144374,Male,59,"Food & Beverage",2,10.46,"Debit Card",26-08-2022,"Zorlu Center"
+I101629,C102585,Male,41,Cosmetics,3,121.98,Cash,25-09-2021,"Mall of Istanbul"
+I101634,C318714,Female,19,Clothing,1,300.08,"Debit Card",11-03-2022,Metrocity
+I101635,C695700,Female,18,Toys,5,179.20,Cash,03-06-2022,"Forum Istanbul"
+I101638,C217867,Female,27,Technology,2,2100.00,Cash,22-07-2022,Metrocity
+I101641,C483550,Male,37,Toys,3,107.52,"Credit Card",06-12-2021,"Cevahir AVM"
+I101642,C296856,Female,39,Clothing,4,1200.32,"Debit Card",22-10-2021,"Mall of Istanbul"
+I101645,C683241,Female,63,Clothing,4,1200.32,"Credit Card",10-11-2022,Metrocity
+I101649,C801987,Male,41,Technology,3,3150.00,Cash,12-11-2021,"Metropol AVM"
+I101653,C185129,Female,68,Souvenir,2,23.46,Cash,10-04-2021,Kanyon
+I101658,C254846,Female,63,Cosmetics,1,40.66,"Credit Card",18-09-2021,"Mall of Istanbul"
+I101659,C197249,Female,67,Shoes,5,3000.85,Cash,29-11-2022,"Viaport Outlet"
+I101661,C156543,Female,45,Clothing,4,1200.32,Cash,06-08-2022,"Emaar Square Mall"
+I101667,C142998,Female,41,Souvenir,5,58.65,"Credit Card",14-09-2022,Metrocity
+I101669,C308898,Male,32,Toys,3,107.52,"Credit Card",01-08-2022,"Viaport Outlet"
+I101670,C584201,Female,34,Clothing,1,300.08,Cash,02-02-2021,"Metropol AVM"
+I101672,C976493,Male,21,Books,2,30.30,"Credit Card",23-01-2021,Metrocity
+I101674,C284838,Male,22,Cosmetics,1,40.66,"Credit Card",12-06-2021,"Viaport Outlet"
+I101675,C302289,Female,20,Cosmetics,3,121.98,"Debit Card",06-10-2022,Metrocity
+I101676,C179567,Female,39,Clothing,2,600.16,Cash,10-02-2023,Kanyon
+I101677,C518156,Female,22,Books,5,75.75,"Credit Card",23-01-2021,"Cevahir AVM"
+I101682,C201671,Female,46,Clothing,4,1200.32,Cash,07-12-2022,"Cevahir AVM"
+I101684,C280909,Female,25,Souvenir,5,58.65,"Credit Card",28-08-2022,"Mall of Istanbul"
+I101686,C520399,Female,30,Clothing,3,900.24,"Debit Card",03-12-2021,"Istinye Park"
+I101691,C322262,Male,67,Souvenir,4,46.92,Cash,05-03-2021,"Mall of Istanbul"
+I101700,C156564,Male,56,Cosmetics,2,81.32,"Credit Card",04-03-2022,"Istinye Park"
+I101703,C113813,Female,65,Cosmetics,1,40.66,"Credit Card",01-11-2022,"Mall of Istanbul"
+I101704,C568729,Female,22,Toys,3,107.52,"Credit Card",10-05-2021,Kanyon
+I101708,C103055,Male,55,"Food & Beverage",1,5.23,Cash,25-05-2021,Metrocity
+I101709,C800815,Female,20,Clothing,5,1500.40,"Debit Card",02-09-2021,"Mall of Istanbul"
+I101711,C354279,Male,48,"Food & Beverage",3,15.69,"Credit Card",18-06-2021,"Metropol AVM"
+I101714,C273113,Female,33,Books,3,45.45,Cash,11-10-2022,"Mall of Istanbul"
+I101716,C254712,Female,19,Clothing,2,600.16,"Debit Card",04-11-2021,"Istinye Park"
+I101717,C143132,Male,42,Cosmetics,5,203.30,Cash,03-12-2021,Kanyon
+I101720,C105307,Male,67,Cosmetics,1,40.66,Cash,29-03-2022,Metrocity
+I101724,C331264,Female,60,"Food & Beverage",5,26.15,Cash,16-03-2022,Metrocity
+I101727,C145580,Male,67,Clothing,2,600.16,Cash,04-05-2022,"Cevahir AVM"
+I101728,C183537,Female,48,Cosmetics,2,81.32,Cash,07-11-2021,"Mall of Istanbul"
+I101730,C378627,Female,41,Toys,5,179.20,"Credit Card",19-12-2021,Kanyon
+I101731,C125296,Female,41,Books,3,45.45,Cash,23-01-2023,"Mall of Istanbul"
+I101734,C150574,Female,26,Shoes,2,1200.34,"Credit Card",08-09-2021,"Metropol AVM"
+I101739,C152510,Male,49,Clothing,1,300.08,"Debit Card",04-02-2021,Kanyon
+I101740,C136633,Male,22,Toys,1,35.84,"Debit Card",12-11-2021,"Istinye Park"
+I101741,C319933,Male,68,Shoes,3,1800.51,"Credit Card",21-07-2021,"Mall of Istanbul"
+I101742,C123907,Female,34,Toys,5,179.20,"Credit Card",17-01-2021,"Mall of Istanbul"
+I101743,C158928,Male,48,Cosmetics,3,121.98,Cash,31-03-2022,Metrocity
+I101745,C105559,Male,42,Shoes,5,3000.85,Cash,05-04-2021,"Cevahir AVM"
+I101752,C116715,Female,45,Souvenir,4,46.92,Cash,16-05-2021,"Metropol AVM"
+I101753,C336142,Female,29,Cosmetics,5,203.30,"Credit Card",25-04-2021,"Istinye Park"
+I101754,C125307,Female,53,Clothing,4,1200.32,"Debit Card",24-09-2021,Kanyon
+I101755,C333796,Female,53,Clothing,3,900.24,"Debit Card",19-02-2021,Metrocity
+I101765,C280567,Male,41,Clothing,3,900.24,"Credit Card",07-08-2021,Kanyon
+I101767,C181289,Female,30,"Food & Beverage",4,20.92,"Credit Card",22-10-2022,"Metropol AVM"
+I101768,C249684,Female,56,Cosmetics,3,121.98,"Credit Card",24-01-2022,"Mall of Istanbul"
+I101769,C306686,Male,61,"Food & Beverage",5,26.15,"Debit Card",18-04-2022,"Viaport Outlet"
+I101775,C867251,Female,64,Clothing,2,600.16,"Credit Card",14-02-2023,"Mall of Istanbul"
+I101779,C114592,Female,62,Books,3,45.45,"Debit Card",14-03-2022,"Mall of Istanbul"
+I101782,C221270,Female,26,Cosmetics,5,203.30,"Credit Card",22-06-2021,"Mall of Istanbul"
+I101785,C279161,Female,31,Shoes,5,3000.85,"Debit Card",13-07-2022,Kanyon
+I101790,C310170,Female,68,Books,1,15.15,"Credit Card",06-09-2021,Kanyon
+I101795,C207950,Male,39,Clothing,4,1200.32,"Debit Card",25-01-2023,Metrocity
+I101799,C789602,Female,59,Technology,3,3150.00,"Credit Card",18-05-2022,"Viaport Outlet"
+I101806,C322425,Female,42,Clothing,1,300.08,"Credit Card",05-01-2022,"Mall of Istanbul"
+I101809,C148190,Female,21,Clothing,5,1500.40,Cash,10-11-2021,"Mall of Istanbul"
+I101810,C259949,Female,69,Toys,4,143.36,"Credit Card",05-07-2021,"Emaar Square Mall"
+I101819,C787263,Female,59,Toys,3,107.52,Cash,17-06-2022,"Metropol AVM"
+I101820,C324317,Male,69,Clothing,1,300.08,Cash,14-08-2021,"Emaar Square Mall"
+I101822,C178709,Female,53,"Food & Beverage",4,20.92,"Debit Card",04-07-2022,"Istinye Park"
+I101823,C121785,Male,64,Clothing,4,1200.32,"Credit Card",22-06-2021,"Emaar Square Mall"
+I101827,C150375,Female,27,Toys,3,107.52,Cash,11-11-2022,Kanyon
+I101829,C207614,Female,52,Technology,2,2100.00,"Credit Card",25-11-2021,"Istinye Park"
+I101832,C261194,Female,40,Cosmetics,3,121.98,"Credit Card",25-12-2022,Kanyon
+I101834,C407525,Female,69,Toys,5,179.20,Cash,23-04-2021,"Istinye Park"
+I101837,C288430,Female,33,Shoes,4,2400.68,"Credit Card",14-05-2022,Metrocity
+I101840,C128251,Male,61,Clothing,3,900.24,"Credit Card",28-03-2022,Kanyon
+I101842,C158131,Female,62,Shoes,1,600.17,"Credit Card",27-04-2021,"Metropol AVM"
+I101843,C300621,Female,61,Clothing,5,1500.40,Cash,18-01-2023,Kanyon
+I101852,C224985,Male,32,Clothing,2,600.16,"Debit Card",04-03-2023,"Mall of Istanbul"
+I101854,C190002,Male,41,Shoes,1,600.17,Cash,14-10-2022,"Mall of Istanbul"
+I101855,C120734,Female,25,Books,4,60.60,Cash,18-02-2023,"Forum Istanbul"
+I101857,C227245,Female,34,Souvenir,2,23.46,Cash,29-04-2022,"Metropol AVM"
+I101862,C352919,Female,24,Shoes,2,1200.34,"Credit Card",02-12-2022,"Viaport Outlet"
+I101865,C248634,Female,47,Clothing,1,300.08,Cash,15-01-2023,"Mall of Istanbul"
+I101869,C578801,Male,27,Technology,2,2100.00,Cash,25-01-2023,"Mall of Istanbul"
+I101870,C350587,Female,68,Shoes,3,1800.51,Cash,24-03-2021,"Metropol AVM"
+I101871,C233682,Female,26,Cosmetics,4,162.64,Cash,22-01-2023,Kanyon
+I101873,C844870,Female,67,Clothing,2,600.16,"Credit Card",14-12-2021,"Emaar Square Mall"
+I101879,C419320,Male,52,Cosmetics,2,81.32,"Credit Card",18-06-2021,Kanyon
+I101882,C225381,Male,38,Clothing,4,1200.32,Cash,10-06-2022,"Zorlu Center"
+I101885,C199456,Male,57,Books,4,60.60,"Credit Card",18-04-2021,"Forum Istanbul"
+I101887,C169919,Male,32,Souvenir,4,46.92,Cash,16-08-2021,Metrocity
+I101888,C216076,Male,69,Clothing,5,1500.40,Cash,22-02-2021,"Metropol AVM"
+I101889,C121577,Female,52,Shoes,3,1800.51,Cash,17-02-2022,"Metropol AVM"
+I101891,C180405,Female,21,Cosmetics,2,81.32,"Debit Card",20-09-2022,"Cevahir AVM"
+I101893,C586871,Female,36,"Food & Beverage",1,5.23,"Credit Card",12-04-2022,"Viaport Outlet"
+I101896,C113243,Male,51,"Food & Beverage",2,10.46,"Credit Card",27-03-2022,Kanyon
+I101901,C241557,Male,53,"Food & Beverage",4,20.92,Cash,27-04-2021,"Istinye Park"
+I101902,C195949,Female,64,Clothing,5,1500.40,"Credit Card",05-04-2021,"Mall of Istanbul"
+I101904,C106038,Female,23,Souvenir,1,11.73,"Credit Card",22-02-2021,Kanyon
+I101905,C147666,Female,36,Cosmetics,3,121.98,Cash,24-02-2021,Kanyon
+I101906,C306258,Male,65,Shoes,2,1200.34,"Credit Card",29-05-2022,Metrocity
+I101910,C304301,Male,41,Souvenir,4,46.92,Cash,29-03-2022,"Viaport Outlet"
+I101912,C499795,Female,46,Cosmetics,5,203.30,"Debit Card",29-07-2022,"Zorlu Center"
+I101915,C112646,Male,42,Clothing,1,300.08,"Credit Card",22-09-2022,Kanyon
+I101919,C209103,Male,32,Clothing,4,1200.32,"Credit Card",20-10-2021,"Metropol AVM"
+I101920,C208660,Female,37,"Food & Beverage",4,20.92,"Debit Card",26-10-2021,"Cevahir AVM"
+I101921,C243839,Female,39,Books,3,45.45,"Credit Card",16-02-2023,"Emaar Square Mall"
+I101925,C329689,Male,66,Technology,3,3150.00,"Debit Card",03-02-2023,"Mall of Istanbul"
+I101927,C156809,Male,53,Books,2,30.30,"Credit Card",15-06-2021,"Mall of Istanbul"
+I101934,C153128,Male,41,Cosmetics,3,121.98,"Debit Card",31-12-2021,"Emaar Square Mall"
+I101940,C283119,Female,18,Souvenir,5,58.65,Cash,25-12-2022,"Istinye Park"
+I101953,C316666,Male,52,Technology,3,3150.00,Cash,16-02-2021,Metrocity
+I101967,C218507,Female,26,"Food & Beverage",5,26.15,Cash,25-02-2023,"Istinye Park"
+I101968,C134978,Male,56,Clothing,3,900.24,"Credit Card",24-01-2023,Metrocity
+I101972,C182834,Female,57,Clothing,5,1500.40,"Credit Card",03-02-2022,Metrocity
+I101974,C184510,Male,57,Toys,5,179.20,"Credit Card",11-11-2021,"Mall of Istanbul"
+I101975,C208782,Female,22,Clothing,2,600.16,Cash,07-01-2022,Kanyon
+I101978,C188650,Female,42,Clothing,5,1500.40,"Debit Card",14-08-2022,"Mall of Istanbul"
+I101979,C109876,Male,25,Clothing,2,600.16,Cash,22-02-2023,"Mall of Istanbul"
+I101982,C116333,Female,40,Technology,5,5250.00,Cash,01-02-2021,"Emaar Square Mall"
+I101983,C889640,Male,57,Toys,1,35.84,"Credit Card",16-09-2021,"Zorlu Center"
+I101984,C117381,Male,45,Clothing,2,600.16,"Credit Card",01-10-2022,Metrocity
+I101989,C269810,Male,66,Clothing,4,1200.32,"Credit Card",28-03-2021,"Zorlu Center"
+I101993,C158626,Female,52,Shoes,1,600.17,Cash,02-10-2021,"Zorlu Center"
+I101996,C157238,Female,32,Cosmetics,3,121.98,Cash,15-06-2021,Kanyon
+I102001,C167373,Female,54,"Food & Beverage",5,26.15,"Debit Card",24-05-2021,Kanyon
+I102006,C133645,Female,64,Clothing,2,600.16,"Debit Card",07-01-2021,Kanyon
+I102008,C171022,Female,47,Clothing,5,1500.40,"Debit Card",15-02-2023,"Forum Istanbul"
+I102009,C146739,Female,31,Shoes,1,600.17,Cash,13-11-2021,"Forum Istanbul"
+I102014,C158673,Male,37,"Food & Beverage",1,5.23,Cash,26-02-2021,"Metropol AVM"
+I102015,C127328,Female,18,Clothing,3,900.24,Cash,23-01-2022,"Viaport Outlet"
+I102020,C244182,Male,20,"Food & Beverage",4,20.92,"Debit Card",10-08-2022,Kanyon
+I102021,C178086,Female,43,Toys,4,143.36,Cash,07-04-2022,"Forum Istanbul"
+I102024,C132062,Female,19,Souvenir,5,58.65,"Credit Card",10-11-2022,Kanyon
+I102025,C119370,Male,51,Books,3,45.45,"Credit Card",14-09-2022,"Forum Istanbul"
+I102031,C208014,Female,43,Toys,1,35.84,Cash,06-09-2022,Kanyon
+I102037,C523688,Female,58,Toys,1,35.84,Cash,21-10-2022,Metrocity
+I102038,C227579,Male,58,"Food & Beverage",1,5.23,Cash,19-05-2021,"Cevahir AVM"
+I102040,C184203,Male,39,Toys,4,143.36,Cash,20-07-2021,"Istinye Park"
+I102041,C846159,Male,50,Cosmetics,3,121.98,Cash,21-08-2021,"Mall of Istanbul"
+I102042,C539103,Male,42,Cosmetics,3,121.98,"Credit Card",01-08-2021,Kanyon
+I102045,C105667,Male,40,"Food & Beverage",3,15.69,"Credit Card",22-05-2021,"Metropol AVM"
+I102047,C203711,Male,65,Toys,3,107.52,"Credit Card",01-06-2021,"Metropol AVM"
+I102048,C597678,Male,23,Books,1,15.15,"Debit Card",05-08-2021,"Mall of Istanbul"
+I102049,C282234,Female,58,Cosmetics,4,162.64,Cash,17-02-2022,"Metropol AVM"
+I102051,C283917,Male,20,Clothing,2,600.16,"Credit Card",26-07-2022,"Mall of Istanbul"
+I102053,C318494,Female,56,Clothing,2,600.16,Cash,13-05-2021,"Mall of Istanbul"
+I102054,C948047,Female,38,Clothing,1,300.08,"Credit Card",07-05-2022,"Viaport Outlet"
+I102058,C245703,Female,50,Cosmetics,1,40.66,"Debit Card",27-04-2022,"Mall of Istanbul"
+I102059,C297169,Female,45,Souvenir,3,35.19,Cash,13-12-2022,"Cevahir AVM"
+I102061,C181574,Male,36,Shoes,5,3000.85,"Credit Card",11-03-2022,Kanyon
+I102065,C799164,Female,40,Clothing,2,600.16,"Debit Card",23-04-2022,"Metropol AVM"
+I102068,C317485,Female,20,Souvenir,1,11.73,Cash,07-07-2021,Metrocity
+I102069,C273829,Female,65,"Food & Beverage",2,10.46,Cash,25-01-2022,"Viaport Outlet"
+I102070,C205475,Male,26,Clothing,4,1200.32,Cash,20-04-2021,"Forum Istanbul"
+I102072,C283005,Female,38,Cosmetics,5,203.30,"Credit Card",05-10-2022,Kanyon
+I102075,C127805,Female,61,Cosmetics,1,40.66,Cash,30-07-2021,Metrocity
+I102082,C402987,Female,31,Souvenir,5,58.65,"Credit Card",20-06-2022,Metrocity
+I102084,C339822,Male,25,Shoes,2,1200.34,Cash,19-02-2022,Metrocity
+I102088,C184837,Male,36,Clothing,3,900.24,Cash,08-05-2021,"Metropol AVM"
+I102091,C190233,Female,26,Toys,3,107.52,"Debit Card",15-03-2022,"Istinye Park"
+I102092,C172569,Female,21,Shoes,5,3000.85,Cash,16-11-2022,"Viaport Outlet"
+I102100,C252261,Female,69,Souvenir,1,11.73,"Debit Card",31-03-2022,Kanyon
+I102101,C270792,Female,30,Clothing,5,1500.40,"Debit Card",21-07-2022,Kanyon
+I102102,C628484,Male,66,Shoes,2,1200.34,"Credit Card",11-06-2022,"Istinye Park"
+I102107,C294500,Male,31,Clothing,5,1500.40,"Debit Card",06-09-2022,"Mall of Istanbul"
+I102108,C316403,Female,28,Shoes,4,2400.68,"Credit Card",25-06-2021,"Zorlu Center"
+I102112,C308314,Male,26,Clothing,3,900.24,"Credit Card",25-12-2021,Metrocity
+I102115,C629211,Male,50,Clothing,5,1500.40,"Debit Card",02-02-2023,Metrocity
+I102118,C336690,Female,69,Cosmetics,3,121.98,Cash,10-02-2023,Kanyon
+I102119,C299453,Female,37,Clothing,1,300.08,"Credit Card",20-05-2022,"Forum Istanbul"
+I102120,C207445,Female,19,Clothing,1,300.08,"Debit Card",14-08-2022,"Forum Istanbul"
+I102128,C183134,Male,21,Clothing,4,1200.32,"Credit Card",04-08-2022,Metrocity
+I102131,C330136,Female,65,"Food & Beverage",1,5.23,"Debit Card",12-04-2022,"Zorlu Center"
+I102133,C121237,Female,36,Clothing,1,300.08,"Credit Card",10-01-2022,Kanyon
+I102141,C329384,Male,34,Clothing,1,300.08,"Debit Card",28-02-2022,"Mall of Istanbul"
+I102142,C234980,Female,22,Shoes,2,1200.34,"Debit Card",24-12-2022,"Istinye Park"
+I102143,C163307,Female,64,Shoes,3,1800.51,"Credit Card",19-01-2022,Kanyon
+I102144,C317414,Female,45,Souvenir,4,46.92,Cash,07-12-2021,"Mall of Istanbul"
+I102148,C127692,Female,60,Clothing,4,1200.32,"Credit Card",15-01-2022,Metrocity
+I102149,C253677,Female,53,Clothing,4,1200.32,"Debit Card",22-03-2022,"Mall of Istanbul"
+I102150,C336009,Male,48,Cosmetics,3,121.98,"Debit Card",23-10-2022,Kanyon
+I102151,C460226,Female,64,Toys,2,71.68,Cash,29-11-2022,Kanyon
+I102157,C204532,Male,42,Shoes,1,600.17,"Debit Card",28-09-2022,"Mall of Istanbul"
+I102159,C115523,Female,21,"Food & Beverage",2,10.46,Cash,02-06-2022,"Zorlu Center"
+I102162,C274417,Female,64,"Food & Beverage",3,15.69,"Credit Card",12-02-2023,"Metropol AVM"
+I102166,C763155,Male,55,Books,1,15.15,Cash,06-08-2022,Kanyon
+I102167,C283282,Female,52,Toys,4,143.36,"Credit Card",10-06-2021,"Cevahir AVM"
+I102171,C170678,Female,53,"Food & Beverage",4,20.92,"Debit Card",15-01-2022,"Cevahir AVM"
+I102173,C222171,Female,38,Clothing,3,900.24,"Debit Card",22-03-2021,"Emaar Square Mall"
+I102175,C287261,Female,65,Clothing,2,600.16,Cash,02-09-2021,Metrocity
+I102178,C123925,Female,54,Toys,2,71.68,"Debit Card",17-11-2021,"Istinye Park"
+I102182,C153009,Male,36,Souvenir,4,46.92,"Credit Card",05-01-2021,"Metropol AVM"
+I102184,C868347,Female,22,Souvenir,5,58.65,Cash,21-04-2022,"Istinye Park"
+I102188,C306087,Female,24,Cosmetics,3,121.98,"Credit Card",11-02-2023,Metrocity
+I102189,C135789,Male,59,Toys,1,35.84,Cash,14-09-2022,"Mall of Istanbul"
+I102191,C211798,Male,31,Shoes,4,2400.68,Cash,17-10-2022,Kanyon
+I102193,C327121,Female,38,Cosmetics,4,162.64,"Credit Card",08-01-2022,"Metropol AVM"
+I102194,C328882,Female,63,Toys,4,143.36,"Debit Card",27-10-2021,"Mall of Istanbul"
+I102195,C242866,Female,28,Clothing,1,300.08,"Credit Card",21-02-2021,Kanyon
+I102199,C219898,Male,46,"Food & Beverage",1,5.23,"Credit Card",01-12-2021,Kanyon
+I102200,C242359,Female,19,Clothing,2,600.16,"Credit Card",25-01-2021,"Metropol AVM"
+I102201,C140670,Female,21,Books,1,15.15,"Debit Card",04-01-2023,"Mall of Istanbul"
+I102202,C174973,Female,60,Technology,4,4200.00,"Credit Card",03-07-2022,"Metropol AVM"
+I102205,C688295,Male,23,"Food & Beverage",2,10.46,"Credit Card",10-07-2022,Kanyon
+I102218,C335848,Female,57,Cosmetics,1,40.66,"Credit Card",23-08-2022,Metrocity
+I102221,C301581,Female,29,Clothing,4,1200.32,Cash,07-11-2022,Kanyon
+I102222,C171465,Female,65,Clothing,5,1500.40,"Debit Card",27-09-2021,Kanyon
+I102223,C339595,Female,29,Clothing,3,900.24,Cash,31-01-2022,"Mall of Istanbul"
+I102224,C156712,Male,24,Cosmetics,3,121.98,"Credit Card",28-01-2022,"Emaar Square Mall"
+I102225,C890104,Female,43,"Food & Beverage",4,20.92,"Credit Card",12-01-2022,Metrocity
+I102229,C194316,Male,58,"Food & Beverage",4,20.92,"Credit Card",01-04-2021,Kanyon
+I102232,C282538,Female,40,Toys,2,71.68,"Credit Card",03-12-2022,"Mall of Istanbul"
+I102233,C284826,Female,47,Shoes,5,3000.85,"Credit Card",25-04-2021,"Forum Istanbul"
+I102234,C237184,Male,48,Clothing,2,600.16,Cash,26-09-2021,"Metropol AVM"
+I102237,C106693,Female,64,Cosmetics,2,81.32,"Credit Card",29-07-2022,"Mall of Istanbul"
+I102240,C281387,Male,29,Clothing,4,1200.32,"Credit Card",22-06-2021,Kanyon
+I102241,C218554,Male,40,Cosmetics,3,121.98,"Debit Card",16-09-2021,"Metropol AVM"
+I102244,C210214,Male,18,Clothing,5,1500.40,"Credit Card",08-08-2022,"Viaport Outlet"
+I102250,C282314,Female,59,Technology,1,1050.00,Cash,24-03-2021,"Mall of Istanbul"
+I102254,C830416,Male,65,Shoes,1,600.17,"Credit Card",05-02-2022,Kanyon
+I102256,C263791,Male,44,Books,3,45.45,Cash,08-12-2021,"Zorlu Center"
+I102258,C306120,Female,49,Clothing,1,300.08,"Credit Card",31-07-2021,"Cevahir AVM"
+I102260,C203685,Male,36,Books,2,30.30,Cash,11-11-2021,"Metropol AVM"
+I102261,C817162,Female,23,Cosmetics,4,162.64,Cash,18-06-2022,"Istinye Park"
+I102264,C221936,Female,56,Clothing,2,600.16,"Credit Card",22-01-2021,"Istinye Park"
+I102268,C298559,Female,47,Shoes,4,2400.68,Cash,31-01-2022,"Zorlu Center"
+I102276,C137086,Female,49,Cosmetics,2,81.32,"Debit Card",30-03-2022,"Istinye Park"
+I102278,C190867,Male,24,Clothing,2,600.16,Cash,31-05-2022,Kanyon
+I102279,C192527,Male,64,Technology,3,3150.00,Cash,06-04-2022,Metrocity
+I102283,C889444,Male,36,Books,2,30.30,"Credit Card",15-04-2022,Metrocity
+I102284,C378236,Female,63,Clothing,5,1500.40,Cash,23-08-2022,Metrocity
+I102286,C303985,Female,50,Souvenir,3,35.19,Cash,02-01-2022,"Emaar Square Mall"
+I102287,C844764,Male,38,Clothing,1,300.08,Cash,16-03-2022,"Metropol AVM"
+I102296,C161661,Male,62,Cosmetics,4,162.64,Cash,01-09-2022,"Cevahir AVM"
+I102300,C244793,Male,46,Toys,3,107.52,Cash,10-01-2021,"Zorlu Center"
+I102303,C165489,Male,30,"Food & Beverage",4,20.92,"Credit Card",13-07-2022,"Mall of Istanbul"
+I102304,C603018,Female,26,Souvenir,3,35.19,Cash,04-04-2021,"Viaport Outlet"
+I102306,C270038,Female,68,Toys,2,71.68,Cash,02-07-2021,"Istinye Park"
+I102311,C689496,Female,43,Shoes,2,1200.34,"Debit Card",09-03-2022,"Metropol AVM"
+I102314,C244044,Female,21,Clothing,1,300.08,"Credit Card",03-08-2021,Kanyon
+I102316,C102664,Female,63,Toys,2,71.68,"Credit Card",26-09-2021,"Emaar Square Mall"
+I102320,C240298,Female,66,Cosmetics,5,203.30,"Credit Card",05-03-2022,Metrocity
+I102323,C231102,Female,67,Clothing,5,1500.40,"Credit Card",21-02-2023,"Istinye Park"
+I102324,C111343,Female,39,Cosmetics,4,162.64,"Credit Card",21-04-2021,Metrocity
+I102330,C552450,Male,18,Clothing,4,1200.32,Cash,17-10-2022,"Mall of Istanbul"
+I102332,C116250,Female,68,Technology,5,5250.00,Cash,05-08-2022,"Istinye Park"
+I102340,C293553,Male,37,Clothing,4,1200.32,"Debit Card",20-09-2021,"Istinye Park"
+I102344,C411285,Female,61,Shoes,3,1800.51,Cash,15-03-2022,Metrocity
+I102345,C329679,Male,28,Clothing,4,1200.32,Cash,29-01-2021,Kanyon
+I102347,C229953,Male,19,Clothing,4,1200.32,"Credit Card",30-08-2022,"Istinye Park"
+I102348,C964439,Male,62,Clothing,2,600.16,"Credit Card",03-03-2023,"Emaar Square Mall"
+I102355,C209984,Male,63,Souvenir,5,58.65,Cash,28-01-2022,"Forum Istanbul"
+I102361,C831180,Female,25,Clothing,2,600.16,Cash,28-04-2022,Metrocity
+I102365,C186468,Male,18,Clothing,1,300.08,Cash,20-11-2022,Metrocity
+I102371,C173386,Male,18,Clothing,1,300.08,"Credit Card",05-09-2022,"Istinye Park"
+I102374,C533960,Female,49,Shoes,3,1800.51,Cash,23-11-2022,"Mall of Istanbul"
+I102375,C305450,Female,56,Souvenir,1,11.73,Cash,17-01-2022,"Mall of Istanbul"
+I102376,C271700,Female,47,Clothing,2,600.16,Cash,24-07-2021,"Viaport Outlet"
+I102377,C124677,Female,35,Clothing,3,900.24,"Credit Card",07-09-2022,"Zorlu Center"
+I102389,C455912,Male,24,Cosmetics,3,121.98,"Credit Card",12-06-2022,"Mall of Istanbul"
+I102395,C316538,Female,48,Cosmetics,4,162.64,Cash,12-01-2021,Metrocity
+I102396,C334331,Male,53,Shoes,4,2400.68,Cash,08-04-2022,Metrocity
+I102397,C246554,Male,56,Clothing,3,900.24,"Credit Card",30-06-2021,Kanyon
+I102398,C766818,Male,24,Books,5,75.75,Cash,28-06-2021,"Istinye Park"
+I102403,C610622,Female,41,Clothing,3,900.24,Cash,27-11-2022,Kanyon
+I102404,C142061,Male,38,Clothing,4,1200.32,"Credit Card",13-12-2021,"Mall of Istanbul"
+I102405,C296119,Male,23,Technology,4,4200.00,"Credit Card",17-09-2022,"Istinye Park"
+I102408,C112153,Female,58,Clothing,5,1500.40,"Credit Card",08-07-2022,"Mall of Istanbul"
+I102413,C408282,Male,39,Shoes,2,1200.34,"Debit Card",25-01-2021,Kanyon
+I102415,C279084,Female,47,Shoes,5,3000.85,Cash,03-07-2021,Metrocity
+I102416,C318747,Male,45,Cosmetics,4,162.64,"Credit Card",10-05-2021,"Emaar Square Mall"
+I102417,C381679,Female,44,"Food & Beverage",4,20.92,"Debit Card",16-06-2021,Metrocity
+I102427,C309294,Male,41,Souvenir,5,58.65,"Debit Card",12-12-2022,"Mall of Istanbul"
+I102433,C215256,Female,20,Toys,2,71.68,"Debit Card",19-01-2021,"Mall of Istanbul"
+I102437,C329779,Female,54,Clothing,2,600.16,Cash,17-11-2021,Kanyon
+I102440,C583660,Female,68,Clothing,3,900.24,"Credit Card",18-12-2022,"Viaport Outlet"
+I102443,C998094,Female,53,Shoes,2,1200.34,Cash,25-09-2022,Metrocity
+I102444,C310499,Female,28,Toys,1,35.84,"Debit Card",23-03-2021,Metrocity
+I102451,C127080,Female,18,Cosmetics,4,162.64,"Credit Card",24-01-2021,"Istinye Park"
+I102453,C125666,Male,61,Clothing,5,1500.40,"Debit Card",02-10-2022,"Emaar Square Mall"
+I102459,C379128,Female,55,Clothing,4,1200.32,"Debit Card",25-07-2021,"Forum Istanbul"
+I102460,C944064,Female,58,Clothing,5,1500.40,Cash,30-07-2022,"Mall of Istanbul"
+I102468,C450900,Female,49,Clothing,3,900.24,"Credit Card",01-01-2023,Kanyon
+I102470,C240359,Male,60,Shoes,5,3000.85,"Credit Card",10-02-2022,"Mall of Istanbul"
+I102477,C137641,Male,33,Technology,5,5250.00,"Debit Card",27-03-2022,"Mall of Istanbul"
+I102480,C264394,Male,28,Souvenir,2,23.46,Cash,24-02-2021,"Metropol AVM"
+I102481,C521673,Male,66,Shoes,4,2400.68,"Credit Card",22-04-2022,Kanyon
+I102483,C179176,Female,34,Toys,5,179.20,Cash,05-04-2021,Metrocity
+I102486,C142171,Male,35,Clothing,5,1500.40,Cash,20-11-2022,"Istinye Park"
+I102487,C104393,Male,35,Clothing,1,300.08,"Credit Card",03-02-2021,Kanyon
+I102488,C217895,Male,57,Cosmetics,5,203.30,Cash,21-05-2021,"Istinye Park"
+I102489,C180255,Male,56,"Food & Beverage",2,10.46,"Debit Card",25-11-2021,Kanyon
+I102490,C191187,Female,35,Souvenir,4,46.92,"Credit Card",18-12-2022,"Mall of Istanbul"
+I102491,C534732,Female,41,Shoes,2,1200.34,"Credit Card",15-09-2022,"Metropol AVM"
+I102494,C260867,Male,47,Clothing,4,1200.32,"Debit Card",25-05-2022,Kanyon
+I102495,C179897,Male,48,Clothing,2,600.16,Cash,13-09-2021,Metrocity
+I102497,C299013,Male,63,Clothing,1,300.08,"Credit Card",17-09-2022,"Mall of Istanbul"
+I102500,C973474,Female,28,Clothing,3,900.24,"Credit Card",16-05-2022,"Mall of Istanbul"
+I102501,C634728,Male,54,Clothing,3,900.24,"Credit Card",29-09-2021,"Istinye Park"
+I102502,C256344,Female,53,"Food & Beverage",1,5.23,"Debit Card",27-10-2021,Kanyon
+I102504,C287619,Female,34,Clothing,4,1200.32,"Debit Card",17-10-2022,Metrocity
+I102509,C164347,Female,22,Technology,5,5250.00,"Debit Card",06-11-2022,"Viaport Outlet"
+I102512,C199702,Male,61,Shoes,2,1200.34,"Credit Card",09-10-2021,"Forum Istanbul"
+I102513,C317824,Male,61,Clothing,3,900.24,"Credit Card",16-10-2022,"Istinye Park"
+I102514,C310453,Female,46,"Food & Beverage",5,26.15,"Debit Card",16-01-2021,Kanyon
+I102518,C904918,Female,46,Shoes,1,600.17,"Credit Card",22-06-2021,Kanyon
+I102520,C531894,Female,33,Books,4,60.60,"Credit Card",22-01-2021,"Emaar Square Mall"
+I102521,C314327,Female,23,"Food & Beverage",2,10.46,"Credit Card",15-08-2021,"Emaar Square Mall"
+I102525,C240268,Male,61,Cosmetics,1,40.66,Cash,16-01-2022,Kanyon
+I102526,C317197,Male,33,Cosmetics,3,121.98,"Credit Card",01-03-2022,"Cevahir AVM"
+I102528,C279943,Male,45,Toys,3,107.52,"Debit Card",23-06-2022,"Viaport Outlet"
+I102533,C363843,Female,25,Clothing,3,900.24,Cash,04-04-2021,"Emaar Square Mall"
+I102534,C522955,Female,46,Clothing,4,1200.32,"Debit Card",30-11-2022,Metrocity
+I102535,C194716,Male,34,Shoes,1,600.17,Cash,20-02-2021,"Metropol AVM"
+I102541,C369611,Female,55,Cosmetics,3,121.98,"Credit Card",27-02-2021,"Metropol AVM"
+I102542,C860947,Female,34,Clothing,2,600.16,"Credit Card",12-04-2021,"Mall of Istanbul"
+I102543,C252688,Female,22,Souvenir,2,23.46,"Credit Card",05-03-2021,Kanyon
+I102546,C307847,Female,30,Shoes,2,1200.34,Cash,06-10-2021,"Metropol AVM"
+I102547,C941147,Female,62,Clothing,2,600.16,"Debit Card",20-06-2021,"Zorlu Center"
+I102553,C153282,Male,45,Toys,4,143.36,Cash,12-05-2022,Metrocity
+I102556,C315965,Male,26,Clothing,1,300.08,Cash,16-01-2023,Kanyon
+I102558,C153506,Female,30,Clothing,5,1500.40,"Debit Card",14-09-2021,"Metropol AVM"
+I102559,C839296,Female,31,Books,4,60.60,Cash,23-02-2022,"Mall of Istanbul"
+I102561,C220525,Male,63,Clothing,3,900.24,"Credit Card",27-10-2021,Metrocity
+I102562,C272836,Female,48,Toys,5,179.20,Cash,16-09-2022,"Mall of Istanbul"
+I102564,C152318,Female,49,Clothing,5,1500.40,Cash,13-06-2021,Metrocity
+I102567,C441192,Female,21,Clothing,1,300.08,"Credit Card",06-03-2023,Kanyon
+I102569,C162413,Male,43,Cosmetics,4,162.64,"Credit Card",24-11-2022,"Zorlu Center"
+I102573,C602990,Female,62,Shoes,2,1200.34,Cash,23-08-2022,"Mall of Istanbul"
+I102578,C207183,Female,36,Clothing,3,900.24,Cash,22-02-2021,Metrocity
+I102587,C255931,Female,32,"Food & Beverage",2,10.46,Cash,02-01-2023,Kanyon
+I102589,C770363,Male,44,Clothing,3,900.24,"Debit Card",27-10-2022,"Cevahir AVM"
+I102595,C256607,Female,48,"Food & Beverage",2,10.46,Cash,09-08-2021,Metrocity
+I102600,C425591,Male,48,Clothing,1,300.08,"Credit Card",13-05-2022,"Mall of Istanbul"
+I102604,C286659,Male,26,Shoes,3,1800.51,Cash,03-07-2021,"Mall of Istanbul"
+I102607,C905205,Female,65,Shoes,4,2400.68,"Credit Card",28-03-2021,"Metropol AVM"
+I102610,C167297,Female,37,"Food & Beverage",3,15.69,"Credit Card",24-03-2022,"Istinye Park"
+I102612,C210929,Female,66,Clothing,2,600.16,"Credit Card",29-09-2022,"Mall of Istanbul"
+I102613,C602495,Female,50,Shoes,1,600.17,Cash,26-05-2021,"Istinye Park"
+I102619,C279714,Female,23,Clothing,2,600.16,"Credit Card",12-05-2022,Metrocity
+I102623,C191191,Male,58,Cosmetics,4,162.64,"Credit Card",27-08-2022,"Zorlu Center"
+I102625,C305261,Male,26,Shoes,2,1200.34,Cash,28-05-2021,"Zorlu Center"
+I102628,C800190,Male,31,Clothing,1,300.08,"Credit Card",01-12-2022,"Cevahir AVM"
+I102629,C103453,Male,46,Clothing,5,1500.40,"Credit Card",28-03-2021,"Mall of Istanbul"
+I102632,C247827,Male,55,Clothing,1,300.08,"Credit Card",02-03-2023,Kanyon
+I102634,C205293,Male,20,Clothing,3,900.24,"Credit Card",18-02-2023,"Forum Istanbul"
+I102635,C162707,Female,50,Clothing,4,1200.32,Cash,13-01-2021,"Emaar Square Mall"
+I102636,C988123,Male,67,Cosmetics,3,121.98,Cash,02-01-2021,Kanyon
+I102641,C148509,Male,52,Cosmetics,4,162.64,"Credit Card",23-06-2022,"Mall of Istanbul"
+I102642,C626080,Male,43,Shoes,2,1200.34,"Credit Card",01-02-2023,"Viaport Outlet"
+I102645,C156538,Male,46,Books,1,15.15,"Credit Card",14-10-2021,Kanyon
+I102647,C208778,Female,35,Cosmetics,5,203.30,Cash,21-11-2021,"Zorlu Center"
+I102652,C134226,Female,67,Clothing,1,300.08,Cash,15-08-2021,"Metropol AVM"
+I102653,C144135,Female,33,Clothing,1,300.08,Cash,20-10-2021,Kanyon
+I102656,C317978,Male,43,Books,5,75.75,"Credit Card",20-07-2021,Metrocity
+I102666,C114925,Male,66,Shoes,5,3000.85,Cash,03-01-2022,"Mall of Istanbul"
+I102669,C172671,Male,40,Clothing,1,300.08,"Credit Card",12-11-2021,Kanyon
+I102675,C936544,Female,45,"Food & Beverage",2,10.46,Cash,27-12-2021,"Istinye Park"
+I102677,C149751,Male,20,Shoes,3,1800.51,"Credit Card",05-04-2022,"Emaar Square Mall"
+I102681,C298900,Female,19,Clothing,1,300.08,"Credit Card",24-09-2022,Metrocity
+I102686,C128656,Female,41,Clothing,3,900.24,"Credit Card",27-11-2022,Kanyon
+I102690,C177682,Male,59,Cosmetics,3,121.98,"Debit Card",07-11-2022,"Mall of Istanbul"
+I102691,C253781,Female,35,Souvenir,3,35.19,"Credit Card",06-10-2021,"Metropol AVM"
+I102692,C340001,Female,65,"Food & Beverage",2,10.46,Cash,25-04-2021,"Mall of Istanbul"
+I102694,C782676,Female,65,Shoes,5,3000.85,Cash,19-07-2021,"Mall of Istanbul"
+I102697,C232551,Male,54,Clothing,2,600.16,"Debit Card",08-06-2022,Metrocity
+I102700,C378568,Female,57,Clothing,4,1200.32,Cash,25-01-2021,"Mall of Istanbul"
+I102703,C110600,Female,40,Technology,5,5250.00,"Credit Card",11-10-2022,"Mall of Istanbul"
+I102713,C259637,Female,27,Shoes,1,600.17,Cash,26-05-2022,Metrocity
+I102714,C182058,Female,63,Clothing,3,900.24,"Debit Card",04-03-2021,"Mall of Istanbul"
+I102715,C837237,Male,41,Clothing,3,900.24,"Debit Card",20-10-2022,"Istinye Park"
+I102716,C231411,Female,27,Toys,3,107.52,"Credit Card",15-11-2022,Metrocity
+I102719,C480086,Female,45,Technology,1,1050.00,Cash,24-04-2021,"Mall of Istanbul"
+I102721,C102359,Male,57,Toys,3,107.52,"Credit Card",09-07-2022,Metrocity
+I102725,C385326,Female,54,Toys,5,179.20,Cash,16-09-2022,Metrocity
+I102726,C444281,Female,66,Clothing,2,600.16,"Credit Card",08-01-2023,"Cevahir AVM"
+I102729,C216936,Female,44,Clothing,1,300.08,"Credit Card",03-01-2021,Metrocity
+I102730,C181990,Male,57,Technology,4,4200.00,Cash,11-07-2022,"Mall of Istanbul"
+I102732,C719232,Male,50,Clothing,5,1500.40,Cash,24-09-2021,"Zorlu Center"
+I102734,C134006,Female,48,Clothing,5,1500.40,"Debit Card",08-06-2021,Metrocity
+I102735,C662013,Female,55,Shoes,4,2400.68,"Debit Card",22-02-2023,"Zorlu Center"
+I102737,C112982,Female,68,Technology,3,3150.00,Cash,09-08-2022,"Mall of Istanbul"
+I102751,C224224,Female,67,Technology,2,2100.00,"Credit Card",28-09-2022,Metrocity
+I102754,C760072,Female,58,Shoes,2,1200.34,Cash,13-09-2021,"Emaar Square Mall"
+I102758,C778349,Female,35,"Food & Beverage",1,5.23,Cash,01-12-2022,"Metropol AVM"
+I102759,C174415,Female,28,Clothing,2,600.16,"Credit Card",26-03-2022,"Mall of Istanbul"
+I102760,C158547,Female,64,"Food & Beverage",1,5.23,"Credit Card",02-09-2021,"Viaport Outlet"
+I102761,C333330,Female,23,Cosmetics,1,40.66,Cash,19-03-2021,"Mall of Istanbul"
+I102764,C102832,Female,41,Clothing,3,900.24,"Credit Card",19-08-2022,"Metropol AVM"
+I102766,C200431,Male,40,Books,2,30.30,"Debit Card",07-01-2021,"Emaar Square Mall"
+I102767,C203666,Female,20,Cosmetics,5,203.30,"Credit Card",07-01-2022,"Viaport Outlet"
+I102773,C287506,Female,35,Cosmetics,1,40.66,"Credit Card",05-01-2023,Kanyon
+I102776,C214209,Female,22,Clothing,4,1200.32,Cash,06-11-2021,Metrocity
+I102782,C105352,Female,51,Souvenir,5,58.65,Cash,01-11-2021,"Mall of Istanbul"
+I102783,C816576,Female,56,"Food & Beverage",1,5.23,Cash,05-02-2023,"Istinye Park"
+I102786,C969271,Female,35,Clothing,2,600.16,Cash,29-06-2022,"Emaar Square Mall"
+I102790,C193288,Female,21,Clothing,5,1500.40,"Debit Card",20-07-2022,"Cevahir AVM"
+I102792,C766287,Male,35,Souvenir,1,11.73,"Credit Card",17-07-2022,Kanyon
+I102797,C129206,Male,52,Cosmetics,2,81.32,"Credit Card",12-01-2023,"Mall of Istanbul"
+I102799,C704920,Male,33,Shoes,5,3000.85,"Debit Card",20-04-2021,"Viaport Outlet"
+I102800,C211156,Female,40,Shoes,1,600.17,"Credit Card",02-01-2022,"Viaport Outlet"
+I102801,C288748,Female,69,Clothing,1,300.08,"Credit Card",01-05-2022,Metrocity
+I102802,C107887,Female,22,Souvenir,3,35.19,"Debit Card",24-07-2021,"Zorlu Center"
+I102818,C156505,Male,57,Toys,1,35.84,"Credit Card",12-01-2021,"Emaar Square Mall"
+I102819,C309720,Male,53,"Food & Beverage",2,10.46,Cash,26-10-2022,"Zorlu Center"
+I102824,C194938,Male,27,Clothing,5,1500.40,"Debit Card",12-11-2022,"Istinye Park"
+I102825,C150885,Female,65,Clothing,4,1200.32,Cash,01-09-2022,Metrocity
+I102832,C146777,Female,40,Shoes,2,1200.34,Cash,20-06-2022,"Istinye Park"
+I102836,C279148,Male,64,Books,3,45.45,"Debit Card",07-03-2022,"Mall of Istanbul"
+I102837,C320088,Female,21,Clothing,3,900.24,Cash,27-11-2021,Kanyon
+I102840,C161257,Female,39,Toys,4,143.36,"Debit Card",27-05-2021,"Metropol AVM"
+I102843,C235737,Female,48,"Food & Beverage",5,26.15,Cash,01-11-2021,Metrocity
+I102845,C175442,Female,41,Souvenir,4,46.92,Cash,05-03-2023,Metrocity
+I102847,C123536,Male,51,Souvenir,3,35.19,"Debit Card",09-03-2022,Kanyon
+I102848,C252901,Female,59,Shoes,1,600.17,"Debit Card",13-01-2021,Kanyon
+I102849,C251633,Female,69,Clothing,4,1200.32,"Credit Card",04-03-2021,"Mall of Istanbul"
+I102855,C159521,Female,19,Clothing,2,600.16,Cash,15-10-2022,"Istinye Park"
+I102873,C994454,Female,25,Toys,4,143.36,"Credit Card",24-08-2022,"Mall of Istanbul"
+I102876,C283599,Female,18,Cosmetics,3,121.98,"Credit Card",27-02-2023,"Mall of Istanbul"
+I102877,C505213,Female,29,Toys,4,143.36,Cash,25-11-2022,"Metropol AVM"
+I102879,C380202,Female,26,"Food & Beverage",4,20.92,"Debit Card",03-09-2022,"Cevahir AVM"
+I102881,C482255,Female,50,Clothing,2,600.16,Cash,21-09-2021,"Mall of Istanbul"
+I102883,C114509,Female,22,"Food & Beverage",5,26.15,Cash,08-10-2021,Kanyon
+I102884,C121907,Female,45,Toys,5,179.20,"Credit Card",22-03-2021,Metrocity
+I102885,C216254,Male,42,"Food & Beverage",5,26.15,Cash,22-08-2022,Kanyon
+I102886,C896170,Female,60,Clothing,1,300.08,"Credit Card",07-07-2022,"Forum Istanbul"
+I102893,C264654,Male,66,Cosmetics,5,203.30,"Credit Card",03-08-2022,Kanyon
+I102902,C603291,Male,58,Toys,1,35.84,Cash,28-11-2022,"Viaport Outlet"
+I102905,C318145,Female,42,"Food & Beverage",5,26.15,"Credit Card",07-11-2021,Kanyon
+I102906,C219499,Female,20,Toys,3,107.52,Cash,16-10-2021,Kanyon
+I102917,C262929,Male,59,Clothing,3,900.24,"Debit Card",02-04-2021,Metrocity
+I102923,C148421,Male,63,Toys,4,143.36,"Debit Card",21-09-2022,"Metropol AVM"
+I102925,C217020,Female,27,Cosmetics,5,203.30,"Credit Card",13-01-2023,Metrocity
+I102926,C319883,Female,60,"Food & Beverage",1,5.23,Cash,06-08-2022,"Cevahir AVM"
+I102928,C211300,Male,60,Cosmetics,1,40.66,"Credit Card",04-03-2021,"Mall of Istanbul"
+I102931,C318182,Male,26,Shoes,5,3000.85,"Debit Card",18-05-2022,"Mall of Istanbul"
+I102935,C184509,Female,59,Cosmetics,1,40.66,Cash,16-06-2021,"Mall of Istanbul"
+I102939,C100110,Female,28,Clothing,5,1500.40,"Credit Card",01-05-2022,Metrocity
+I102941,C189039,Female,45,Cosmetics,2,81.32,Cash,14-05-2022,Metrocity
+I102944,C105025,Male,33,Cosmetics,2,81.32,Cash,03-12-2021,"Forum Istanbul"
+I102945,C287896,Female,34,Clothing,1,300.08,Cash,25-06-2022,Metrocity
+I102946,C182144,Female,62,Clothing,3,900.24,Cash,30-11-2022,"Viaport Outlet"
+I102954,C155342,Male,30,"Food & Beverage",4,20.92,Cash,06-02-2021,"Mall of Istanbul"
+I102958,C332958,Female,54,Clothing,3,900.24,"Credit Card",02-11-2022,"Istinye Park"
+I102960,C131004,Female,34,Technology,3,3150.00,"Credit Card",25-01-2021,"Mall of Istanbul"
+I102964,C321846,Female,69,Shoes,2,1200.34,Cash,23-04-2021,"Viaport Outlet"
+I102969,C166525,Female,62,Cosmetics,2,81.32,"Debit Card",17-04-2021,"Mall of Istanbul"
+I102977,C316330,Female,30,Souvenir,4,46.92,"Credit Card",30-10-2022,"Metropol AVM"
+I102979,C628682,Female,35,Souvenir,3,35.19,"Credit Card",23-01-2022,"Mall of Istanbul"
+I102985,C191792,Male,42,Souvenir,2,23.46,"Debit Card",01-06-2021,"Mall of Istanbul"
+I102989,C273531,Female,67,Shoes,2,1200.34,Cash,01-03-2021,"Cevahir AVM"
+I102990,C296573,Male,22,Shoes,5,3000.85,"Credit Card",20-07-2022,Kanyon
+I102991,C397967,Female,28,Books,3,45.45,"Credit Card",12-10-2021,Metrocity
+I102993,C142692,Female,67,Clothing,2,600.16,"Credit Card",21-11-2022,"Forum Istanbul"
+I102994,C262644,Female,69,Shoes,3,1800.51,"Debit Card",11-01-2022,"Mall of Istanbul"
+I102999,C295992,Male,34,Toys,3,107.52,"Credit Card",17-08-2021,Metrocity
+I103002,C245635,Female,62,"Food & Beverage",2,10.46,"Credit Card",03-07-2021,"Viaport Outlet"
+I103004,C560575,Male,33,"Food & Beverage",1,5.23,Cash,04-02-2022,"Metropol AVM"
+I103006,C258085,Male,41,Technology,4,4200.00,Cash,20-07-2022,"Cevahir AVM"
+I103010,C260917,Female,51,Shoes,1,600.17,Cash,02-08-2021,Metrocity
+I103014,C185481,Female,57,Clothing,4,1200.32,"Debit Card",03-07-2022,"Istinye Park"
+I103016,C633152,Female,60,Clothing,4,1200.32,"Credit Card",12-07-2021,"Forum Istanbul"
+I103019,C335724,Male,60,Shoes,2,1200.34,Cash,14-10-2022,"Forum Istanbul"
+I103020,C327792,Female,27,Books,4,60.60,Cash,17-06-2021,"Mall of Istanbul"
+I103021,C325728,Male,36,Books,1,15.15,"Debit Card",25-02-2023,"Mall of Istanbul"
+I103026,C142823,Female,64,Shoes,1,600.17,Cash,21-10-2021,"Viaport Outlet"
+I103028,C243168,Female,22,Toys,4,143.36,"Credit Card",24-08-2021,"Zorlu Center"
+I103029,C213516,Female,18,Toys,5,179.20,Cash,21-06-2021,"Mall of Istanbul"
+I103031,C228178,Female,55,Toys,5,179.20,Cash,17-09-2021,Kanyon
+I103032,C317778,Male,65,Clothing,2,600.16,"Debit Card",06-09-2022,Kanyon
+I103033,C960822,Female,38,Technology,2,2100.00,"Debit Card",14-09-2021,"Zorlu Center"
+I103035,C155712,Male,21,Clothing,5,1500.40,"Debit Card",29-08-2021,Metrocity
+I103036,C992589,Female,39,Cosmetics,2,81.32,Cash,18-08-2022,"Istinye Park"
+I103044,C367741,Female,48,Clothing,5,1500.40,Cash,13-06-2021,"Viaport Outlet"
+I103045,C267316,Female,62,Shoes,1,600.17,Cash,24-08-2022,Metrocity
+I103046,C208145,Female,33,"Food & Beverage",1,5.23,"Credit Card",26-01-2021,"Emaar Square Mall"
+I103055,C315737,Male,44,Cosmetics,4,162.64,"Credit Card",17-07-2022,Metrocity
+I103056,C258161,Male,34,"Food & Beverage",4,20.92,"Credit Card",18-05-2022,"Mall of Istanbul"
+I103059,C264391,Female,67,Cosmetics,1,40.66,"Debit Card",20-06-2022,Metrocity
+I103061,C603549,Female,41,Clothing,2,600.16,Cash,17-01-2021,"Mall of Istanbul"
+I103062,C232094,Female,53,"Food & Beverage",5,26.15,"Credit Card",11-02-2023,Kanyon
+I103064,C274479,Female,36,Toys,2,71.68,Cash,04-03-2023,Metrocity
+I103065,C205710,Male,31,Books,2,30.30,"Credit Card",14-03-2021,"Mall of Istanbul"
+I103066,C340003,Male,66,Clothing,1,300.08,Cash,11-08-2021,"Mall of Istanbul"
+I103067,C210847,Male,22,Toys,3,107.52,"Debit Card",25-11-2021,Kanyon
+I103068,C115494,Male,69,Clothing,2,600.16,"Debit Card",21-03-2021,Kanyon
+I103070,C754112,Male,19,Cosmetics,2,81.32,Cash,31-12-2021,Kanyon
+I103071,C243412,Male,26,"Food & Beverage",5,26.15,Cash,09-12-2022,"Mall of Istanbul"
+I103072,C170969,Male,20,Cosmetics,4,162.64,Cash,04-04-2022,"Forum Istanbul"
+I103076,C288406,Female,24,Clothing,4,1200.32,"Debit Card",10-09-2021,"Viaport Outlet"
+I103081,C119424,Female,68,"Food & Beverage",2,10.46,Cash,27-07-2022,"Mall of Istanbul"
+I103082,C286580,Female,33,Books,3,45.45,"Credit Card",12-10-2022,Metrocity
+I103083,C936888,Female,48,Cosmetics,4,162.64,Cash,15-02-2022,"Istinye Park"
+I103085,C252697,Female,27,Clothing,2,600.16,"Credit Card",27-08-2022,Kanyon
+I103086,C285452,Female,52,Cosmetics,4,162.64,Cash,17-08-2022,Metrocity

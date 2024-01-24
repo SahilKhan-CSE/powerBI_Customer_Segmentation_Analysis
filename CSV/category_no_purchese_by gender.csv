@@ -1,0 +1,17 @@
+gender,category,purchase_count
+Female,Books,2906
+Female,Clothing,20652
+Female,Cosmetics,9070
+Female,"Food & Beverage",8804
+Female,Shoes,5967
+Female,Souvenir,3017
+Female,Technology,2981
+Female,Toys,6085
+Male,Books,2075
+Male,Clothing,13835
+Male,Cosmetics,6027
+Male,"Food & Beverage",5972
+Male,Shoes,4067
+Male,Souvenir,1982
+Male,Technology,2015
+Male,Toys,4002

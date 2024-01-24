@@ -1,0 +1,17 @@
+gender,category,avg_age
+Female,Books,43.4556
+Female,Clothing,43.3819
+Female,Cosmetics,43.5717
+Female,"Food & Beverage",43.4892
+Female,Shoes,43.5323
+Female,Souvenir,43.4335
+Female,Technology,43.2496
+Female,Toys,43.5002
+Male,Books,43.6627
+Male,Clothing,43.4499
+Male,Cosmetics,43.5942
+Male,"Food & Beverage",43.1557
+Male,Shoes,43.3415
+Male,Souvenir,43.3315
+Male,Technology,43.5444
+Male,Toys,43.0617

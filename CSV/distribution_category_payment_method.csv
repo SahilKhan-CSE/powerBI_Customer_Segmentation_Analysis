@@ -1,0 +1,25 @@
+category,payment_method,payment_count
+Books,Cash,2268
+Books,"Credit Card",1696
+Books,"Debit Card",1017
+Clothing,Cash,15456
+Clothing,"Credit Card",12025
+Clothing,"Debit Card",7006
+Cosmetics,Cash,6674
+Cosmetics,"Credit Card",5336
+Cosmetics,"Debit Card",3087
+"Food & Beverage",Cash,6587
+"Food & Beverage","Credit Card",5250
+"Food & Beverage","Debit Card",2939
+Shoes,Cash,4474
+Shoes,"Credit Card",3553
+Shoes,"Debit Card",2007
+Souvenir,Cash,2211
+Souvenir,"Credit Card",1770
+Souvenir,"Debit Card",1018
+Technology,Cash,2235
+Technology,"Credit Card",1753
+Technology,"Debit Card",1008
+Toys,Cash,4542
+Toys,"Credit Card",3548
+Toys,"Debit Card",1997
